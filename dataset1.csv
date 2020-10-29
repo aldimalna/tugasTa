@@ -1,0 +1,1739 @@
+Tolong labelkan data di bawah ini berdasarkan emosi yang terkandung di dalam text tersebut ,,
+Labelkan data berdasarkan emosi yang berada di dalam text yang ada di kolom TEXT,,
+"1 = Cinta 
+2 = Senang 
+3 = Takut 
+4 = Marah 
+5 = Sedih",,
+"Jika text mengandung emosi yang bersangkutan (secara langsung atau tidak langsung) dengan angka di atas, maka silahkan masukan angka tersebut di kolom LABEL",,
+"Contoh : ""Semangat pagi sobat Bendungan Hilir #Banjir #BanjirJakarta https://t.co/355G4OxJKf"" , text disamping mengandung kata kata senang (secara tidak langsung) dan emosi yang dikeluarkan adalah senang maka, label nya adalah 2",,
+"JIka text tertulis dengan bahasa lain (jepang,mandarin,korea,dsb) maka tidak usah dilabelkan",,
+NO,LABEL,TEXT
+0,2,Depan pom Pertamina jl. Rasuna Sa'id  Kuningan Jaksel Alhamdulillah aman ga #banjir https://t.co/sFaCss7KvN
+1,4,"Ujan dr semalem udh bikin banjir kaya gini. Hmm
+#banjir #BanjirJakarta #banjir2020 https://t.co/6GdM4MHUm6"
+2,4,"Neduh gw paling lama nih keknya, malem kmarin sampe subuh
+Otw pulang malah banjir nih menteng 😩"
+3,4,Lokasi bendungan hilir banjir #BanjirJakarta @TMCPoldaMetro https://t.co/lEVlzvsbAv
+4,2,"Hello again, Flood! 
+#banjirjakarta #banjir https://t.co/x5hPlmamWt"
+5,,#banjir https://t.co/vW08TJcV1r
+6,2,Semangat pagi sobat Bendungan Hilir #Banjir #BanjirJakarta https://t.co/355G4OxJKf
+7,4,"""Maju kotanya, banjir warganya"" teriak seorang pengendara lain. Pagi ini menuju kantor di jalan gatot subroto. Mungkin bapaknya sudah geram, tapi dibawa ketawa aja. Sama kayak saya, yg  pagi ini, kantor hampir dikelilingi air semua, setelah 9 tahun tidak pernah seperti ini."
+8,4,Udah ada janji! Hebring-Kalideres-Mangga Besar-BlokM terjang hujan lebat dan jalanan banjir ketika sampai lokasi liat jam tepat menunjukkan pukul 01:30 pagi dan suasana lokasi sudah sepi (༎ຶ ෴ ༎ຶ) iyaudah lah mau gimana lagi udah jam 1 lewat juga gabisa salahin siapa-siapa juga. https://t.co/GlhUrS4XZr
+9,4,"@TMCPoldaMetro bukit duri tanjakan banjir, udh tanjakan tetep banjir. biasanye banjir cuma kiriman bogor depok. tahun ini terpatahkan, pake aer ujan skrg bisa tetep banjir. https://t.co/55vfLZO54B"
+10,2,"Karena beberapa akses jalan kekantor tertutup banjir, jadilah aku disini makan sama mbak https://t.co/oxGgSnl4N7"
+11,1,"#banjir ; jln setiawan cililitan kecil rw 07 kel cililitan, jkt timur @petabencana https://t.co/YTLvclNexk"
+12,5,"[Selepas Operasi Cesar Ibu dan Bayi Terpaksa Dievakuasi karena Banjir]
+
+Sahabat Inisiator, banjir yang menggenangi Rumah Sakit Kartika Pulo Mas, Kayu Putih, terpaksa membuat pihak RS harus mengevakuasi pasiennya… https://t.co/3C1k5eXCHa"
+13,2,"Mari kita semua berdoa semoga sodara""kita yg terkena banjir di berikan ketabahan dan pertolongan/bantuan yg layak oleh pemprov DKI JAKARTA https://t.co/3O20B2Jy6B"
+14,4,"Gak kebanyang kalo orang yang kena banjir, ampe sulit akses kemana2, liat ini . Terakhir, dikira orang sabtu minggu ga kerja ya. Goblok ! https://t.co/dNLqXMruAL"
+15,4,"Kok gak nagih ke Jokowi, kan dia janji DKI bebas banjir kalau dia jd Presiden, udah 6 thn jd Presiden, kalau Anies gak pernah janji, cuma berusaha biar gak banjir https://t.co/O5VthTy8fk"
+16,4,"Anies itu gak pernah janji masalah banjir busa diatasin...yg janji tuh Jokowi bilang banjir DKI bs teratasin kalau dia Presiden, kok gak nagih Jokowi ya mereka https://t.co/vfsY5uYO1U"
+17,2,@denywidjaja_17 inshaallah engga ko den... situ banjir g ?
+18,2,@VistaEarth Lha gw kira banjir.
+19,2,"@Prambors Pernah.. Dulu smp ada tambahan UN pagi² karna deres, banjir &amp; macet total kita ngide jalan kaki, sesampai di sklh bimbelnya tinggal 10 menit lg, kita akhirnya ngumpet di toilet dan baru sadar kalau kita ngelewatin banjir pake sepatu, sendalnya malah kering di tas hehe (bodohnya)"
+20,3,"Semakin aneh. Gubernur ga bs manage upaya pencegahan banjir. Sibuk pencitraan. Trus pendukungnya akan cari alesan sana sini buat belain. Get real, dude. He’s so fail, so far.."
+21,4,Pd ribut aja.. Ribut ga bikin banjir surut jg 😔 https://t.co/dNW9MV9gNP
+22,2,"Akhirnya ngerasain susah mau ngantor Karena jalanan menuju Kemang banjir semua, alhamdulillah tadi bisa lewat Kemvil dan diijinin keluar dari situ."
+23,2,"@tsukilunacchi Ini cara saya menghindar banjir dan macet dari Cibubur ke South Quarter Dome.
+
+Terimakasih google Maps! 
+
+#Meeting https://t.co/9lE29gTSZT"
+24,5,"@hrdbacot Disuruh tetep ngantor krn kntr ga banjir, kecuali rumah kebanjiran.. derita nya klo kejebak macet dan banjir otw kntr.."
+25,2,@sayangiususmuu Jangan lupa laki2 pakai ini supaya ciwi2 ga hamil saat banjir bersama nanti https://t.co/GkZs5tqA7x
+26,2,"@Jirolupat_ Teras kostku ngene 😂😂😂 
+""Kemang kaline banjir...."" https://t.co/cpWWFYNkqw"
+27,4,"Kostku kebanjiaran, nggak bisa ke mana-mana. Dari pagi sampai jam segini mantengin twitter soal #Banjir mulai dari prihatin sampai ketawa pasrah. 
+
+Eh, jangan-jangan nanti Gubernur DKI pikir, ""Warga tetap santuy kok ngadepin banjir."" Hadeuuuuh! #banjirjakarta https://t.co/fKvAJjFaJF"
+28,4,"Karena banjir, ganjil-genap tidak diberlakukan di jalur-jalur utama Jakarta. Tapi ya bukan gini juga maksudnya. 
+
+@TMCPoldaMetro https://t.co/OPcLqKGslp"
+29,,"Dini hari tadi Kemang Selatan XII, Jakarta Selatan menyatakan keikutsertaannya dlm keriaan #banjirjakarta 2020 utk kesekian kalinya. 
+
+Semoga kali ini kawasan ini diakui sebagai peserta #banjir setelah kecewa tdk dinyatakan banjir oleh @aniesbaswedan pd peristiwa tahun baru lalu https://t.co/F77t8abuRK"
+30,5,@blanthik_ayu Listrikku matek mbak. Diputus PLN. Kemang banjir. Laaah aku ora iso nyuci.
+31,5,"Dibayar tunai, sekarang banjir di hari selasa 😭 kadruun kadruun https://t.co/tyBfBLSBHf"
+32,1,Awww gemesh bangeeet ini tanggal item juga banjir saking solehnya 🥰 https://t.co/O83jHZxrtb
+33,1,Thanks Anies gubernur terbaique 🙏🏻💕 aku sekarang ke kantor hampir 3 jam lohhh karena banjir dan road closures di mana mana 😍🥰
+34,1,@Yaqination @wiponk @daryanfahmi @ZulkyO O tentu tidak. Kosanku bebas banjir sejauh ini 😂
+35,1,"#BanjirJakarta2020 
+#banjir https://t.co/z5yD1FBa66"
+36,5,"Ngeliat IG banjir ✅
+Ngeliat Facebook banjir ✅
+Ngeliat Twitter banjir ✅
+
+Eeeehhhh pas ngeliat dompet malah mulai kering 😂😂😂
+
+#PapaEko"
+37,2,Gak ada info banjir di kawasan Tangerang Selatan nih min? Tx @RadioElshinta
+38,2,"Waspada banjir di mana² hari ini yaaaa...
+
+@nonAngie 🙏💪"
+39,1,@eleanor_83 Pengambilan keputusan yg tepat mas bro. Istri &amp; anak bisa hidup tenang &amp; nyaman tanpa kepikiran banjir lagi 😊💪
+40,5,Orang bule aja mau bantuin petugas kebersihan nguras sm mungut sampah banjir. Nah kita? 😅
+41,4,"Tanggal 1 Januari lalu boleh lah kaget. Gak nyangka curah hujan tinggi banget, gak ada tanda-tanda akan banjir sangat besar. Lalu kebobolan tanpa persiapan. Tapi kalo sekarang masih begitu juga, itu namanya gak mau belajar dari kejadian lampau. Geram!"
+42,3,"@ZoneVenomWar @BillyBoen Banjir tapi di titik tertentu ,Kalo puri sakti itu udah pasti jangan karna emmag kawasan banjir ,kemang paling aman di kemang timur"
+43,4,"Jijik banget denger bacotan pro anies ,banjir adalah berkah ,karna jakarta adalah kota penuh dengan rawa ,halah bacot lu rumah lu noh kelelep"
+44,5,Pertama kali gajadi balik karena force majeur ceunah aka banjir 🤔
+45,4,Lagi musim banjir disuru ke Sukabumi hadeh
+46,1,"Selain mindahin mobil, dokumen penting, dan barang berharga, sebelum banjir minum pil kb/susuk/pasang spiral.
+Nanti bukan bonus demografi lagi, tapi ledakan demografi. 
+Jakarta banjir ndak kelar-kelar je. Gak weekend gak weekdays."
+47,5,"Liat timeline @TMCPoldaMetro isinya banjir semua 🙈
+
+Stay safe guys."
+48,,"ただいまチランダック/Cilandak辺り。既に水が溢れてる箇所あり。今日も朝から大雨のジャカルタ☔
+
+#cilandak #jakata #jakartaselatan #banjir #ジャカルタ生活 #洪水"
+49,2,Titik-titik banjir: Hujan deras yang terjadi mulai Senin (24/2) malam mengakibatkan sejumlah wilayah di Jakarta terendam banjir. #kumparanNEWS https://t.co/jtPrJILaCE
+50,,"Ini hari kerja dan banjir,berarti gak soleh dongggghh https://t.co/qzGj2oK9KN"
+51,,Ini hujan dan banjir gini gak bisa ke sunter nih
+52,4,"Meskipun gubernurnya soleh, tapi hari Selasa gini tetep banjir. Apa yang salah?"
+53,4,"Pagi ini hujan pasti ada bagian di Jkt yg terkena banjir. Jkt sejak zmn baheula sdh banjir. Mk ada Rawajati, Rawamangun, Rawabadak dll. Pr Gub DKi dr ms ke ms berjuang atasi banjir blm berhsl. Anies dlm 2 thn pimpin DKI jg  blm berhasil. Para politisi penganggur hajar Anies"
+54,3,@kerupukkkaleng Iya dsini jg dr kmrin malem hujannya smpe skrg ga brhnti2. Di rumahku klo banjir tu biasanya kiriman.. soalnya kmrin2 ga banjir walaupun hujan mulu
+55,2,"Bela Anies Terkait Banjir, Bamus Betawi: Bersyukur Banjir Terjadi di Hari Libur, Ada Hikmahnya https://t.co/scyqB1KMuQ"
+56,4,Please banjir atau tenggelemin aja sekalian jakarta
+57,4,"😀😀😀😀 tagih ke Jokowi tuh, janjinya jika jd Presiden banjir DKI teratasin https://t.co/p6grRoYIeh"
+58,2,"Iya pak anies nunggu janji Jokowi, jadi Presiden banjir DKI hilang, kan kata Jokowi gitu 😃😃😃 https://t.co/C9mM3OahZz"
+59,4,"Ayo mas Joko janji nya ditepatin, katanya banjir jakarta akan teratasin jika jd presiden https://t.co/TxrzEmkpmt"
+60,4,Cuman mau bilang si kalo banjir jakarta kali ini paling parah selama 7 tahun gw kuliah pp cemput depok itu yg namanya cawang gak pernah banjirrr setinggi itu
+61,2,"Anies mau ikut jejak Jokowi, jadi Presiden baru bisa atasin banjir Jakarta 😃😃😃😃 https://t.co/yFOpHDW6rI"
+62,5,Astagfirullah Kelapa Gading banjir lagi https://t.co/ERNbxTmSON
+63,5,Wah banjir mulu
+64,,Hujan deras yang mengguyur ada Minggu (23/2) dini hari menyebabkan sejumlah wilayah Jakarta dilanda banjir. https://t.co/iAyXRDvFEg
+65,,Banjir menimpa Negara Adidaya https://t.co/1HALLBpTQe
+66,4,Moga gak banjir -_-
+67,2,@dwigartika Wkwkwkw katanya sering banjir
+68,4,"Maaf survei abal-abal. Yg disurvei banjir di Jakarta, tapi responden 1200 dari seluruh Indonesia. https://t.co/a3Cvlwxrnc"
+69,5,"Mulai naik air nya ... 😟
+.
+.
+.
+#banjir
+#siagabanjir @ Kampung Gaga Caplin Ciledug https://t.co/efeMOLZBtl"
+70,5,"Lautan sampah di Parung Serab depan ruko Dian Mansion.
+.
+@dlstrr05 via Twitter:
+Dari dulu tmpt ini gprnh bersih dari yg namanya sampah sekalipun bersih paginya udh numpuk lagi Dan pas banjir beginilah akibatnya.tlg… https://t.co/cjSLDZhnrK"
+71,2,"Sebagai bentuk mawas diri akan musibah banjir, mari beesama2 jaga kebersihan dgn tidak membuang sampah sembarangan.
+Perlu diingat, puntung rokok juga merupakan bentuk sampah."
+72,2,"Jajaran terkait siap membangun pos pengungsian -&gt; https://t.co/QHBp5NPudL
+
+Jajaran terkati lakukan evaluasi terkait banjir yg terjadi agar bisa mengantisipasi -&gt; https://t.co/SNhZSFDTLr
+
+Sama sama kebanjiran toh"
+73,4,"Yang gak ngizinin iku loh sopo????
+
+https://t.co/zXtDOfnm1Y"
+74,4,"@12m3ly @aniesbaswedan @jokowi Kelihatan banget area tersebut butuh EDUKASI JAGA LIMGKUNGAN DARI SAMPAH RUMAH TANGGA 
+
+bener kata orang tua....KITA AKAN TUAI APA YG KITA TANAM..
+
+Mau ga banjir tapi buang sampah seudelnye..
+Giliran banjir nyalahin @PemdaDKIJakarta 
+
+Tolong pak @aniesbaswedan mrk diberi edukasi"
+75,5,@ndanduy Wkwk tau ahh. Baru kali ini gw setahun sampe 2x kena banjir
+76,5,@dellmadestra @IniPamulang @Kota_Tangerang @Kabar_Tangsel Kalo kali nya mah biasanya gapernah smpe ada sampah numpuk bersih.  Itu sampah yg dibuang dipinggir jalan setiap harinya ada aja sampah. Dan akhirnya banjir jadi bgtu 😓
+77,2,"untung udh netap di Semarang. ga kebayang bokap nyokap yg tiap minggu hrs ke daerah Cempaka Putih-Kelapa Gading hrs muter otak lewat mana lagi karena sensitif bgt, hujan dikit aja banjir se-dada orang dewasa😕"
+78,3,Menangani Banjir dan Kemacetan akan lebih Mudah jika Jadi Presiden...
+79,4,"Berita terpopuler hari ini JAKARTA BANJIR, apa Jakarta tidak punya pimpinan yg berkompeten sehingga bajir terus menerus terjadi https://t.co/nxvsyamaIM"
+80,2,@ziaacu Terimakasih pakk polrii sudah dengan suka rela membantu para masyarakat yg sedang lewat dilokasi titik banjir sshat² selalu bapak #PolriHadirUntukRakyat
+81,2,"Untuk bapak @pardedereza kenapa anda tidak muncul, anda kan seorang pengendali banjir.
+.
+.
+.
+Hiya Hiya hiya"
+82,4,jadi kalo udah gini salah siapa? #banjir https://t.co/H87KEb63nc
+83,4,"Hallo @PerjakaGesit @Kota_Tangerang jembatan baru yang di jalan raden fatah, kok jadinya useless gt yah. Sdh 2x banjir termasuk hari, tuh jembatan gk bisa di lewati.  Gmn desain awalnya yah? Cc @AboutTNG @AriefWismansyah"
+84,,@DKIJakarta @kondekturbus @RadioElshinta @SonoraFM92 mohon info apakah daerah lebak  bulus ada jalan yg banjir /terendam?
+85,2,"Terus kalo banjir, yang kena kan cowo dan cewe. Bisa hamil dong nanti 🤔"
+86,2,"Disatu sisi warga kesal dengan pemerintah karna banjir, disisi lain anak sekolah senang sekolah diliburkan karna banjir."
+87,2,"Padahal BMKG dari akhir tahun udah memperingatkan hujan besar dipertengahan februari-maret berpotensi banjir, aq sih udah ga kaget kalo banjir."
+88,2,"Tenang Kawan-kawan biarpun Banjir
+Krusty Krab tetap buka seperti biasa."
+89,2,"Tenang kawan-kawan kita pasti bisa 
+melewati masalah banjir ini, karna kita 
+sudah pernah melewati masalah 
+kiamat 2012."
+90,5,"Liat Ibukota Banjir, liat dompet Kering."
+91,,@luxyriz Banjir
+92,,"Kehamilan bisa terjadi pada wanita di kolam renang, walau tanpa berhubungan badan
+
+Banjir cuma terjadi di hari libur
+
+Yuk 1 statement lagi yuk, biar gobloknya hattrick."
+93,5,Banjir gais terpaksa berangkat pulang sampe rumah macem kucing keujanan:v https://t.co/fclna3Vgw6
+94,3,"Alhamdulillah rumah ga banjir
+
+Tapi tl semua sosmed gua banjir ):
+#banjir"
+95,2,Senang dah kau jhon bolak balik rumah #banjir https://t.co/dWDtvhBz6d
+96,4,Yakin masih mau lanjutin formula e nya pak? Apa sebaiknya dana penyelenggaran di geser utk hal yg lebih berguna seperti penanggulangan banjir mungkin
+97,,"Gue: ha? Hujan? Dimana2 banjir? Tetep berangkat kantor aja deh
+Kantor: https://t.co/v8KGTb8Evy"
+98,2,"@rafifnaufal7 Bsk beli kasur yg di ikea boy, bebas banjir"
+99,4,Inilah bedanya bekas Gabener sampah AHOAX yang JUMAWA. Beda kelas dengan Goodbener Indonesia bapak Anies Baswedan yang berani bertanggung jawab atas musibah banjir DKI Jakarta. https://t.co/ctbEKZWgRV
+100,4,"@corn_dhe @SurgaSavero Sedikit merasakan gak sur? Tiap hujan waswas dan tau banjir, begitu surut harus bersih2 rumah..
+
+Energi terkuras hanya utk masalah itu itu saja"
+101,4,"Maaf ni pak, kebetulan hari biasa nih dan kayaknya hujan deras yg mengguyur membuat beberapa wilayah terendam banjir.
+
+Pede bener banjir cuma weekend katanya 😊😊😊 https://t.co/D2oBVaY80l"
+102,4,"@SurgaSavero @NASA Yes wajar tp bolak balik kena dampak banjir dan belum adanya tindakan kongkrit dr pemerintah terkait apa iya kita masih bisa bilang wajar jakarta banjir dr dulu, atau makanya jangan buang sampah sembarangan bla bla bla bla..."
+103,4,@SurgaSavero @NASA Utk hal ini proses bukan? Pembangunan waduk masih dlm pengerjaan. Tp apa iya setelah waduk berdiri jakarta tidak kena banjir? Apa kita tetap pongah dan melepas kewaspadaan?
+104,4,"Bapak gak kasian sama warganya yg bolak balik kena banjir? Kok gak ada langkah kongkrit pak?
+
+Oia lupa, yg utama formula e"
+105,,Banjir lagi aje
+106,2,"Saat ini sih rumah/akses jalan kekantor belum kebanjiran ya, tapi ngeliat temen2 kantor pd izin karna kena/kejebak banjir, rasanya ingin latahan 🤣 #banjir"
+107,2,Selamat pagi puri kartika #banjir https://t.co/M2KBRLYaKl
+108,2,@yunartowijaya @aniesbaswedan Yang bikin banjir bukan Anis. Banjir sebab curah hujan tinggi di mana2 termasuk Tangerang. Saya orang tangerang hari ini saya tidak menyalahkan Walikota. Sedangkan di depan rumah saya per jam 05 air 75 cm. Tetangga ada yang terendam. Tetap tidak salahkan Walikota
+109,4,@firaun_id Belasi sampai Karawang kalau musim hujan gini tak kelihatan sawah. Yang terlihat hanya air seperti Lautan. Itu artinya yang salah pengembang. Kenapa sawah di bikin rumah. Nah kalau sudah banjir semua saling menyalahlan. Pikir tu.
+110,4,"Jadi, titik mana yang sudah banjir parah? https://t.co/7td4dI3RjU"
+111,4,Wah ternyata dah banjir dimana2
+112,,"Demi keselamatan jiwa bersama akibat banjir disekitar lingkungan tempat tinggal kita , segeralah hubungi Contact Center PLN123 atau datanglah ke kantor PLN terdekat untuk melepas / matikan aliran listrik .
+
+#tipsbanjirpln
+#pln123
+#ListrikUntukRakyat https://t.co/4f1avpqpDO"
+113,4,Pulang sampe rumah pd.lakah banjir bung. Gubernur tidur nyenyak ga yah pagi dini hari ini??? Hemmm
+114,,Banjir.
+115,,@petabencana #banjir
+116,5,"Jkt banjir, ini udah ujan lagi takut dirumah ujan😭"
+117,2,Banjir lagiiiii😂 tapi yg ini udah siap doongggg semuanya udah di amanin😂😂😂
+118,4,"Apa nggak sebaiknya UU cilaka Minibus Law dibahas Datuk @karniilyas ? Kalau soal banjir ini Clear kok, banjir zaman foke salah Sutiyoso, banjir jaman jkw salah FOKE, banjir jaman ahok salah jkw, banjir jaman Anies ya salah ahok, banjir setelah 2022 ya salah Anies.. simple🤗 https://t.co/ShpOD9TmDW"
+119,,"@gbymnd exactly geb. krna lagi musim hujan / banjir, jdi byk genangan air. nularnya lewat nyamuk tapi geb, ga man to man. selama imun tubuh prima, insyallah aman."
+120,2,"@drugseyes @m_marshel @aniesbaswedan Ayu yu masuk tol pake motor, kebandung aja sekalian. Bilang aja banjir jalanan nya"
+121,2,Terima kasih infonya ...@elshinta update banjir jkt bekasi gmn https://t.co/uiAeT1SiVM
+122,2,@RadioElshinta mohon info apakah perumahan  Harapan Indah Bekasi akses sudah bisa masuk? Karena tadi pagi Banjir
+123,2,"Ngakak😭 mesen grabfood dari tdi ga dtg² lama bener ternyata abangnya kejebak banjir depan gang mau gamau gua yg nerobos banjir diliatin orang2 mana macet, gua jalan pake jas ujan ngakak 😭"
+124,2,"👨‍🦳: tong luh mau kemane pagi-pagi 
+👨🏻‍🦲: pengen ke empang baaa mumpung banjir banyak ikan,pan empang encing pd luber.
+👨‍🦳: jangan dah jangan tong! Entar ikan encing luh pd bunting ora punya baba kesian jd anak yatim.."
+125,4,"@KompasTV Batalin formula e, pake dananya buat ngatasin banjir, simple..knp mesti pake ngeliat pintu air doank, malihh"
+126,4,"2020blum jg genap 2 bulan, banjir udh 4 kali!! Alesan apalagi nis!? #DKIJakarta"
+127,4,@syarahh09 Sekarang jkt ujan dikit banjir syar 😅😂
+128,2,Alhamdulillah pemerataan air banjir 😁 https://t.co/EOa6HaiKVt
+129,5,Belum 24 jam ternyata wajah baru jakarta sudah berubah pagi ini. Stay save teman2 terdampak banjir https://t.co/BnMRIUWpT6
+130,2,"#minggupagi ini diawali dengan #WajahBaruJakarta loh😏
+Pagi yg indah nan sejuk, bawaannya pngen mandi ajah setiap menit, tinggal nyebur sih😅 #banjir #BanjirJakarta #BanjirJakarta2020"
+131,2,"Bagi masyarakat yang sedang mengalami banjir di sekitar rumahnya dihimbau untuk dapat mematikan listrik dari _MCB, Cabut aliran, pindahkan peralatan listrik ke tempat yang lebih aman serta dapat menghubungi Contact Center 123 untuk memadamkan daerah terdampak banjir. https://t.co/UHyPzMsTJK"
+132,2,"Real action....
+Atasi Banjir, DKI Guyur Rp30 Miliar untuk Bogor https://t.co/WAEHgIeSq1"
+133,5,"Hujannya super awet dri semalam. 
+Semoga ga banjir lagi :((
+Kulkas kosong, belum blanja apa2  😥😥"
+134,4,@peozzlee @Urieevenuss mati lampu+banjir tapi
+135,4,@korantempo Siapapun Gubernur nya tak akan bisa mengendalikan banjir JAKARTA. Banjir Jakarta tak bisa di perdebatkan. Sejak Gubernurnya SOEMARNO Jakarta selalu banjir. Pikir pakai otak
+136,4,"What?! Lebih sukses Anies kali yg atasi banjir, kmrn gw liat bnyk yg smpe atap tuh banjirnya 🙃 https://t.co/Woyo7mM0oS"
+137,2,"Banjir? Bingung kemana? Mampir aja ke Sahabat Senja Bintaro Sektor 3 sambil nunggu surut nya banjir. Di tunggu ya. 
+Jangan lupa follow like n share ya instagram kami. @sahabatsenja.bintarosek3  #AniesTenggelamkanDKI #BanjirJakarta2020 #Tangsel #bintaro https://t.co/6FyHVHMWof"
+138,4,"@ekkyrezky Ya ampun, mas. Jangankan bahas banjir, sekarang yah solat 5 waktu ke mesjid ajah dikaitin ke urusan politik. Capek, mas. Capek!!! 😂"
+139,,#infobintaro #banjir #pondokmaharta https://t.co/MGkjVTy7Pc
+140,2,"Jakarta banjir dimana mana, ciputat mager dimana mana"
+141,2,"Kalian para wanita hati-hati saat menerjang #banjir 
+Disana juga banyak pria
+Entar tau tau hamil https://t.co/VtDJldm7VC"
+142,2,"@petabencana IYA IYA! GAMAU NGADU APA2 KOK PAK, SAYA TAU PENYEBAB BANJIR ITU AIR KOK"
+143,2,@petabencana Hehe.. Punten bos.. Saya cuma ngejokes.. Semoga banjir cepet selesai dan kita diberikan keselamatan 🙏
+144,2,"Kepada warga jakarta, khusunya cewe2.. Jangan keluar kalo #banjir ya...
+
+TAKUTNYA HAMIL!
+
+Ga asig kan #hamil tanpa mantap2..
+
+Wkwkwkwkwk"
+145,4,"Banjir di mana-mana.
+
+Usaha kita utk mengurangi sampah plastik udah sampe mana btw?
+Botol minum? Totebag buat belanja? udah pernah nyoba bikin ecobricks? Terus apalagi?"
+146,2,"Jakarta banjir, ciputat konsisten macet https://t.co/Jgdio8pb8A"
+147,2,"Setelah kejadian beberapa tahun lalu di mana bumi menjadi datar, maka inilah penyebab banjir selalu datang. Sebelumnya sewaktu masih bulat air bisa dialiri merata ke seluruh bumi."
+148,2,"padahal udh niat brgkt, udah sampe kebayoran denger informasinya krl cm sampe tn abang krn sudirman banjir, yaudahdeh puterbalik sebelum jauh 😂👍"
+149,2,Banjir lagi bang disana.? https://t.co/6Hf4Bi9fzd
+150,2,"@ginginanjar_ Banjir gin, kata nyokap depannya sedungkul. FYI rumah nyokap deket gading"
+151,2,"Guys jgn salahin Pak @aniesbaswedan kalo Jakarta banjir lagi..pliss ya, doii ga salah...🙏"
+152,,#PrayForJakarta #Banjir
+153,2,"Jakarta banjir, extent aja apa nih ? https://t.co/ZjIN8N2vew"
+154,2,@mochamadarip Nara sumber g bisa hadir pada bersihin rumah banjir
+155,2,Bekasi banjir lagi 🌊
+156,2,"Baru kemaren ada yang bilang, hujan dan banjir selalu hari libur biar gak merepotkan karena pada di rumah, langsung dibayar tunai hujan di hari senen banjir di hari selasa...
+
+Allah Maha berKuasa"
+157,4,"Hujan, banjir, and the pemda seems to do nothing about it.
+
+Pejabatnya beneran ga ada yg mau mengundurkan diri aja, nih?"
+158,4,BANJIR TEROOOOOS
+159,4,"Le banjir dirumah : nani!?!?!?!
+Gw : trobos aja lah anjingg!!!!! https://t.co/u3AXpjqKHg"
+160,4,"Jakarta dibagusin posting sana sini tuh gubernur tukang obat, tp begitu banjir dan kasus monas babak belur, batang hindungpun ga ada... apalagi congornya?"
+161,,Mulai lagi ujan gak berenti2.. Semoga gak ada banjir kaya awal tahun..
+162,4,"Hujannya masih deras dan konstan sepanjang malam. Sama seperti kemarin, dan kemarinnya lagi.
+
+Duh, kepikiran yang kemarin kebanjiran (lagi). Kasian capeknya belum hilang masih waspada banjir (lagi)."
+163,2,"Kayaknya malam ini mulai dari Jakarta sampe ke Tangerang selatan sama2 hujan lumayan deres.
+
+Takecare, semoga gak ada banjir ya."
+164,2,ujan deresnya stabil dan lama. semoga ga banjir.
+165,2,@Rujakchingur Akses ke rumah gw udah banjir
+166,2,Alhamdulillah...daerah tempat tinggal bebas banjir https://t.co/HTyR4cIfZb
+167,3,"Tangsel hujan, mudah2an ga banjir"
+168,3,Ujan deres lagi moga ga banjir
+169,2,Kodamar (komplek marinir) kelapa gading banjir ga ya???
+170,2,"@Pradhana_Adi @IndahAriani Perbaikan bukan dikarenakan banjir tapi memang dikarenakan faktor usia  Gedung B lokasi Pameran Tetap, memerlukan banyak pemeliharaan :)"
+171,2,Alig Sarinah banjir :0 https://t.co/BnCdBOI0BZ
+172,3,Liat orang2 pada post video banjir semua di jkt:( untung ciputat aman
+173,2,"Matraman , utan kayu banjir waaa ntar nyari kos dimana ini"
+174,2,@noellastrna Bocor apa banjir itu buuu
+175,2,@petabencana #banjir
+176,3,Kalo gak berhenti bisa banjir lagi nih
+177,4,"Pikir dipikir pas kita kena macet aja udah bikin pusing dan emosi kalau #JalanPerancisTangerangRusak kaya gini terus kapan lancarnya, banjir yang tak kunjung surut pula, perekonomian juga terhambat kalau begini..
+@KemenPU https://t.co/rcK2AtWrdK"
+178,2,Tagar Banjir Kembali Bertengger di Trending Topic Twitter https://t.co/g1b9ha2MbB https://t.co/hwbILUl8kM
+179,2,"mission completed. ujan""an + banjir""an berasa naek jetski @ Perum Dasana Indah, Bojongnangka, Kelapa Dua, Tangerang https://t.co/o98IWWPLfS"
+180,2,Lucu nih orang yang di tengah #BanjirJakarta #banjir #BanjirJakarta2020 @KompasTV https://t.co/klVpKE5nmQ
+181,2,Bulan ini banjir banget.... alhamdulilah gak ada nyeri yg bikin guling2..
+182,2,Alhamdulilah daerah rumah ku gak banjir. Tapi malah ada niatan bulan april mau pindah rumah ke daerah yg mungkin akan terkena banjir 😂
+183,5,@petabencana Banjir datang bulan woy :'( . . . Tapi gapapa . Aku kasih hastag #banjir :')
+184,4,"Jakarta Dirundung Banjir, Anies Dirundung Malu (kalau masih ada) 
+
+#BanjirJakarta2020 #banjir #ILCSalahkahAnies https://t.co/hVQxdol8Oo"
+185,2,"Lucu kali yo mang
+
+https://t.co/Fi6NON2cK2
+
+Terimbas banjir, hingga kini, penggugat belum tahu kapan sidang lanjutan warga korban banjir Jakarta akan digelar."
+186,2,Stay save ya teman-teman yg terkena banjir.
+187,4,"Pelatih golf blom tentu jago main golf, dokter blom tentu jg hidupnya sehat, Guru blom tentu jg pintar menerapkan apa yg diajarkan apalagi bukan bidangnya!! Nih contohnya, vote  smartly #gituaja, #banjir"
+188,2,"@GrabID min mau tanya, untuk kondisi banjir gini, performa masih berlaku gak?"
+189,4,@gojak_gajek gara2 pada banjir itu semua jalan macet wee 🤦‍♀️
+190,4,Ini formasi penyerangan catur atau informasi bencana banjir? Agak mirip ya tapi berwarna. #AniesTenggelamkanDKI https://t.co/7M7gFBZ6wd
+191,2,"@MyDesyAriess Iyaaa makasihhh, tapi alhamdulillah nya belum sampe depan rumah. Depan rumah masih aman, cuma ini di pinggiran komplek dket jalan raya , cuma kepisah selokan aja antara jalanan komplek sm jalan rayanya. Tp dulu ga pernah banjir gini pdhl."
+192,2,"Dulu ga pernah banjir, tapi semenjak ada mall balekota kalau hujan ga berhenti2, jadi banjir gini. Padahal saluran airnya udh di perbesar. https://t.co/ovIfkOl92d"
+193,2,Semoga yg kena banjir cepet surut ya
+194,5,"Sedih liatnya itu udh banjir kaya gitu, sampahnya banyak bgt :((( https://t.co/YyOpwH78lN"
+195,4,@hainaeso @Prambors Gabisa orang dari torabika aja udah banjir se lutut org dewasa
+196,4,Banjir ey lah mana hari ini gajihan anying lah🥺
+197,4,"Banjir makin naik aja air nya, semoga gajih juga ikutan naik🥺🧐 https://t.co/UJFpwvF17j"
+198,2,@laelawati1095 @zoelfick Iyaa aku banjir banjir an nya sama cewe aja.
+199,2,#banjir welcome home water
+200,2,Harus bersyukur dengan #banjir saat ini. Semoga kotoran2nya ikut tersapu kelaut lepas... https://t.co/58QtNNQd0E
+201,4,@urnextfriend Naek apa tuh? Krl banjir di Sudirman. Bagian Usher jg? Apa floor?
+202,2,"Naik TJ banjir, naek kereta banjir besok gue jet lah"
+203,5,kondisi tol Tgr-Jkt gimana ya.. macet gak yaa pls info kalo ada yg tau #banjir terutama gerbang tol kebon jeruk ☹️
+204,5,@mamakucink Pasti dimana mana pada banjir
+205,5,"Gak bisa tidur, abis nerjang banjir.."
+206,5,"Ga bisa tidur, depan udah banjir lagi 😅"
+207,5,q pikir banjir https://t.co/XFt8ZMUAdw
+208,3,"Bicara soal banjir dijakarta, sebenarnya bukan kesalahan pak @aniesbaswedan melainkan personal yang masih melakukan buangsampah sembarang, tidak banyak warung2 atau pedagang yangmasih membuang sampah di kali, yang mampu menyebabkan kebanjiran!!
+#BanjirJakarta2020 #banjir2020"
+209,4,"Kemarin heboh buang sperma dikolam renang hamil sekolam.
+.
+.
+DKI hari ini banjir kalau ada yang crit sembarangan? #BanjirJakarta #BanjirJakarta2020"
+210,4,"Udah tau banjir masih disuruh outbound😭
+Sekolah2 sekarang ko mulai berulah yg aneh2 sih.
+Kasus bully aja bilang cuma kenakalan.
+Sekarang sungai banjir😭😭😭
+Aturan ya kalo mau susurin sungai, ITU YG PUNYA IDE DULUAN AJA COBA DULU SUSURIN TUH SUNGAI!!! https://t.co/Wrpmt0Az0E"
+211,2,Semoga tidak ada yg banjir yaaaa
+212,2,Pati banjir kah?
+213,2,"Ujannn, kosanku takpateniii. Biar kalo banjir ga keliatan. Hahaha 😣 https://t.co/bYyHmKNBXt"
+214,2,Si penerbang banjir Grogol tawakal @Jihooshii wkwkwkwk https://t.co/76sLcrQ4ka
+215,4,Jakarta bakal banjir lagi nih..entah harus bagaimana cara menyadarkan @aniesbaswedan agar memprioritaskan antisipasi banjir ketimbang Formula E https://t.co/A8P8pVekwD
+216,2,"Jakarta pasti banjir malam ini, kasian warga sekitar kali. Semoga Allah menjauhkan dr mara bahaya yg lebih besar https://t.co/BXGPuop3of"
+217,5,Gang santai jadi ga santai kalo banjir mulu :( https://t.co/BecWb59i80
+218,5,"#banjir dikawasan Jl.taman kemang dan sekitarnya,diperkirakan sejak subuh tadi volume air naik dan volume air diperkirakan selutut pria dewasa. https://t.co/cST042KTP2"
+219,4,"Pak @aniesbaswedan @DKIJakarta ini sudah 3 hari sejak tanggul ini jembol, akibatnya kami dalam 3 hari ini 3 kali jg kebanjiran, air sederas ini merendam rumah kami yg dibawah, kami capek pak siang bersihin rumah, malam kebanjiran, benar2 capek! Lokasi Pasar Manggis #JAKI #banjir https://t.co/TKHSY5lyoK"
+220,4,"Saya sampai harus bergadang tiap hujan pak @aniesbaswedan @DKIJakarta,trauma akibat banjir yang diakibatkan jebolnya tanggul ini, capek pak.saya memilih anda ketika Pilgub, saya percaya tidak ada batas antara pemimpin &amp; rakyat, tolong dengar jeritan kami pak!! Cc @TMCPoldaMetro https://t.co/M9AZMrINsQ"
+221,4,Baru kali ini rumah Jakarta kena banjir terparah
+222,4,#banjir pisangan lama samping kantor pusat bea cukai. https://t.co/FVwDOhHLbf
+223,4,@petabencana #banjir
+224,4,Didepan kampus atmajaya banjir cukup dalam @RadioElshinta @TMCPoldaMetro @lewatmana https://t.co/gOyTnWZIqX
+225,5,"Efek banjir, krl cuma sampe manggarai, jadi ngantri busway ampe jalan huhu🥺 https://t.co/NhNLlovUwl"
+226,5,@PT_Transjakarta mohon ditambah lagi yah armadanya karena jalur KRL ke arah Tanah Abang banjir jadi banyak yg beralih ke TJ https://t.co/roYjhelUFG
+227,2,selamat pagi dari dalam angkot yg kena macet #banjir https://t.co/b0YsA02fey
+228,5,Dari dulu tmpt ini gprnh bersih dari yg namanya sampah sekalipun bersih paginya udh numpuk lagi Dan pas banjir beginilah akibatnya.tlg dong gmn cara mengatasinya.jmbtan aja baru dibgn sebelah gmn tiap hari gamacet. @Kota_Tangerang @Kabar_Tangsel PARUNG SERAB dpn Ruko Dian Mansion https://t.co/nPT2WQnqKy
+229,5,"Ujan awet dan deres banget, semoga gak pada kebanjiran deh yaa. Kesian memulai senin dengan banjir.. :("
+230,5,"Hujan mengharuskan ku kerja banjir banjiran , sampai kantor menggigil 'bu ganti baju dulu masa kerja basah basahan gini' ya gimana ya pak😌 akhirnya di pinjemin jas..."
+231,2,"Curah hujan yg tinggi dari td mlm jam 10 mlm..
+Wilayah tangerang mana saja yg sudah banjir.. https://t.co/ZOcpjRypDg"
+232,4,"Gubernur DKI JAKARTA, Anies Baswedan pun terus diminta pertanggungjawabannya ketika banjir melanda ibu kota. Saksikan INDONESIA LAWYERS CLUB malam ini dengan tema : JAKARTA DIRUNDUNG BANJIR, SALAHKAH ANIES? ~ SELASA, 25 FEBRUARI 2020 jam 20.00 WIB LIVE di tvOne #ILCSalahkahAnies https://t.co/wFFah6S5su"
+233,3,"#AniesTenggelamkanDKI #BanjirJakarta2020 #AzabGabenerBodong #banjir #BanjirDKIJakarta 🙏
+
+https://t.co/3KswVehY84 https://t.co/AsMKMBSLmt"
+234,4,"Nis nis nis...
+Banjir maneh iki Lo
+
+#banjir"
+235,5,Pertama kalinya merasakn banjir selama dijakarta 😬😬 #parah #BanjirJakarta2020 https://t.co/rk3Ay1kdKX
+236,2,Anak siapa ini wkwkwk #banjir #BanjirJakarta2020 https://t.co/uIU2Fgwk57
+237,2,"Pagi pagi cek words ""Banjir"" dan hampir di semua area banjir, yang kerja masih tetep masuk gak?"
+238,2,"Dihimbau untuk cewe-cewe di Jakarta jangan keluar rumah, takutnya nanti pas nerjang banjir tiba-tiba hamil.
+
+#banjir
+#SelasaSambat
+Stay safe https://t.co/5NdCOZCpeG"
+239,4,Banjir bangsat
+240,4,"@Metro_TV Tiap kali hujan, tiap kali itu juga banjir ! @DKIJakarta @aniesbaswedan @dprddkijakarta @willsarana @PSI_Jakarta @psi_id"
+241,4,"Kadang ngerasa bosen deh sama joke ngeyel padahal biasanya yg diajak ngomong lg serius,kayak
+""Gimana rumah aman?""
+""Ya aman,kalo ga aman rante-in aja biar aman !""
+...
+""Banjir ga tadi di jalan?""
+""Lumayan,gw nyari jalan dulu tadi""
+""Ngapain lo nyari-in jalan, emang jalanan ilang?""
+🤦‍♂️"
+242,4,"@CherylTanzil @aniesbaswedan Pak @aniesbaswedan jawab pak !
+Apa saja yg sudah dilakukan untuk mencegah banjir @DKIJakarta ?
+Masyarakat Jkt butuh kejelasan, apa akan seperti ini terus di bulan2 berikutnya?"
+243,5,"@yunartowijaya @aniesbaswedan Sedih bgt Jkt banjir mulu,pencegahannya ga terlihat nyata,penanganannya jg kurang.
+Ayo dorong pemda @DKIJakarta, @aniesbaswedan &amp;media2 u/ publikasikan apa sj yg sudah dilakukan u/ mencegah banjir? Sudah brp KM naturalisasi sungai?
+Apa jkt mau sprt ini terus?
+@KompasTV @detikcom"
+244,4,"https://t.co/m07m89WRaI
+#daanmogot #banjir #BanjirJakarta #BanjirJakarta2020 #Banjir2020 #4niesTenggelamkanDKI"
+245,4,"Ternyata gubernur yang sekarang kurang sholeh,  buktinya ini hari Selasa tetap banjir.
+Hikmahnya: ""hari ini biji lo makin mengkerut!"" https://t.co/LmLz3EZy2f"
+246,5,demen bangetsih diamah main di air banjir😒 https://t.co/uJKBgwUDF9
+247,2,"Sesuatu yang berlebihan tidak selalu baik. Contohnya ya air yg sedang berlebih saat ini.
+#BanjirJakarta #banjir https://t.co/SbrbimyJiy"
+248,5,Please info dong turun di tol cempaka putih or rawamangun yg ga banjir arah pulomas😩 #banjir
+249,4,"Jakarta Banjir, performa bagaimana????? Masih ambil Untung aja dari penderitaan Driver @GrabID @gojekindonesia"
+250,4,Jakarta #BANJIR https://t.co/Yhg3h4NIyP
+251,4,Dah luber ni kolamnya...kabur lagi deh ni ikann2nya pak @aniesbaswedan... ya masa ngurus banjir aja gak mau ngontak presiden ama komut cina kafir buat belajar sih?? https://t.co/s4yRdAKyIY
+252,5,Sebel banget kalo banjir giniii.... ngantor muter lewat toll.. duit dan waktu kebuang.
+253,4,@JokoSus46520969 😅😂😅 sampe banjir berjilid-jilid masih kaya Pager ngejeger 😂😅
+254,4,"@SondoroMusic @aniesbaswedan Naaahh kerugian akibat banjir berturut dari jan sd feb 2020 di Jakarta sudah hampir bisa membiayai formula E tuh, mau tambah lagi pengeluaran buat ajang yg pembalap Indonesia aja ngga jelas"
+255,5,Banjir Jakarta kali ini sangat memprihatinkan. Udah nggak seperti biasanya. Yg nggak pernah kebanjiran aja jadi banjir tahun ini 😢 #4niesTenggelamkanDKI
+256,4,"@03__nakula nunggu hulu dikerjakan krn gak bisa beresin hilir , gak bisa bebasin lahan sungai #banjir narasi @aniesbaswedan"
+257,5,"Jakarta hujan lg untuk kesekian kalinya hari ini, kali ini lebih lebat berangin dan akupun deg degan apakah akan banjir lagi ?"
+258,4,"@kompascom Yaelah masihb ama pemilu udah ngomongin elektabilitas, banjir dulu dibahas. @kompascom bahas dunk dgn @KompasTV &amp; @KompasData sudah berapa KM sungai yg dinaturalisasi o/ pemprov @DKIJakarta itu masyarakat jakarta bayar pajak, harus ada perubahan lbh baik t'kait bnjr
+@PSI_Jakarta"
+259,5,"@ismailfahmi @anjarisme Inilah mengapa kita harus mendorong @DKIJakarta &amp; Pak @aniesbaswedan segera memberikan solusi atas banjir Jkt&amp;melakukan aksi nyata.
+Jgn sampai hal ini terulang kembali dan menjadi kerugian untuk masyarakat Jakarta. Jika sudah dilakukan naturalisasi,sudah brp byk?
+@AimanWitjaksono"
+260,4,"@yokia9 @KompasTV @DKIJakarta @Metro_TV @tvOneNews @OfficialiNewsTV @detikcom @Rosianna766Hi @aniesbaswedan Goal prioritasnya adalah jkt bebas banjir&amp;macet. Minimal di bulan selanjutnya di 2020 atau minggu depan jika ada hujan, minimal banjir di jakarta berkurang. Bayangkan jika banjir melanda Jkt di saat weekday pasti macet parah
+Itulah knp kita butuh data&amp;fakta @DKIJakarta
+Mana DPRD?"
+261,4,"@KompasTV @KompasTV bahas dunk sudah berapa banyak/KM sungai yg dinaturalisasi dlm infografis?
+Apa antisipasi agar tak banjir minimal early warning ke masyarakat?
+Masyatakat @DKIJakarta butuh data&amp;fakta bukan sekedar kata2 !!!
+@Metro_TV @tvOneNews @OfficialiNewsTV @detikcom @Rosianna766Hi"
+262,5,"Sekali lagi, jualan ayat, mayat dan agama ada harganya yang harus dibayar.
+
+https://t.co/mE1CTRDenG
+
+Banjir juga menggenangi RS Cipto Mangunkusumo (RSCM). Sejumlah alat medis dikabarkan rusak dan terendam."
+263,4,Tiap hujan sll deg2an.. apakah aku hrs beli truk??!!! #banjir https://t.co/dKqk6UpsiC
+264,5,Jakarta banjir. #BanjirJakarta 👀 https://t.co/iAssv6OOX5
+265,5,Hujan .... sabar ya yg kena banjir🙏
+266,2,"@TMCPoldaMetro Para wanita aseli, dilarang berendem ke air banjir, krena nti bisa hamil, kata komisi ituh tuh.."
+267,4,"@yunartowijaya @aniesbaswedan Ayo mas sama sama analisa apa sungai di sekitar rmh mas telah dilakukan naturalisasi seperti program pemprof @DKIJakarta ?
+Apa terdapat early warning sebelum bencana melanda?
+Apa sj yg sudah diimprove setelah  2x #banjir sebelumnya?
+pak @aniesbaswedan harus memberikan kerja nyata"
+268,5,"@NickVesting @yunartowijaya @aniesbaswedan @DKIJakarta Seharusnya tiap kali @DKIJakarta banjir, @aniesbaswedan memberi data ke media berapa banyak sungai yg telah dinaturalisasi, berapa bayak daerah yg tergenang banjir di jakarta, berapa banyak biopori yang telah dibuat, apa yg akan dilakukan agar tidak terjadi banjir lagi.
+@TirtoID"
+269,4,"@cadd_pinterest @Ayang_Utriza @makLambeTurah @aniesbaswedan @aagym Iya @aagym seharusnya ikut bertanggung jawab atas tweetnya yang menimbulkan polemik.
+Masyarakat @DKIJakarta butuk aksi nyata dan improvement yang jelas&amp;terukur. Jangan tunggu hujan lalu banjir lagi lagi dan lagi. https://t.co/qLXcO1kQml"
+270,4,"@aniesbaswedan @KotaJaksel @kec_jagakarsa Pak, tolong update data naturalisasi sungai di @DKIJakarta agar dpt meminimalisir bencana banjir Jakarta"
+271,2,Menikmati Banjir Ibukota https://t.co/VG2lzS9Ik6
+272,4,"https://t.co/iu8dvVFyTZ
+Bukannya mengerahkan daya dan pikiran untuk mengatasi banjir, malah mikir balap mobil Formula E yang gak bermanfaat langsung untuk masyarakat Jakarta."
+273,,"昨夜からの雨で
+ジャカルタ含むジャボデタベックは
+
+あっという間に
+洪水＝banjir（バンジル）☔️
+
+検索すると、
+たくさんの動画&amp;コメント↓
+
+・洪水は学生をハッピーにする
+・タイティー☕️
+・私の家へようこそ👍
+・タイタニック
+「ジャックはどこ？」👄
+等
+
+明るい人が多い🤣
+
+ #banjir #Jabodetabek"
+274,4,"Sekarang tiap pagi kita penuh perjuangan ke kantor karena banjir
+
+Mau protes?
+""Woi perantau.. JKT uda biasa banjir, kalo gak betah keluar aja dari JKT""
+
+Gimana kalo penghuni JKT jd 'terbiasa' ??
+Program penanganan Banjir bisa jd prioritas terbawah dongs.. 
+Uda terbiasa~"
+275,4,"No wonder #BanjirDKIJakarta is in daily basis. He's good in canvassing not executing!
+#banjir
+#AniesTenggelamkanDKI https://t.co/c6IlxIQDWd"
+276,5,"Depan jalan amil, smp fatahilah banjir kira2 60cm.. kelurahan pejaten barat. @aniesbaswedan @DKIJakarta @DinasSDAJakarta https://t.co/rIKoIQdqIa"
+277,4,@pln_123 disini udah gak banjir. Nyalain listriknya bisa kaleee
+278,5,"Di bawah tol Jatinegara banjir, motor masuk jalan tol https://t.co/160fcDSXBD"
+279,4,"Jembatan yang blm lama diresmikan &amp; dioperasikan 3 / 4 bln yg lalu di jl Raden Patah,Tangerang..Sdh rusak dan tdk tahan lama,krn kualitas pengaspalan yg kurang baik..Mohon utk diperhatikan krn kalau banjir, lubangnya sangat dalam Terimakasih pak @AriefWismansyah  @HumasTangerang https://t.co/lMDySAwVIz"
+280,5,"Sibuk dan rame,pada bingung mau lewat mana #banjir #tangerang #ciledug #tajur https://t.co/IRPpX8IDpy"
+281,4,#banjir salam dari warga2 menteng dalem palbatu 3 jakarta selatan nih pak @aniesbaswedan  minta di tengokin https://t.co/o3LyLtbaVy
+282,5,"Dah mulai banjir 20 cm jalanan depan rumah, saluran air pun penuh, sepertinya petugas pompa ketiduran pagi ini, bahaya klo sampai lupa dinyalakan ... ini klo masih berlanjut hujan, bablas banjir beneran. Semoga hujan berhenti dan cepat surutnya. #BanjirJakarta"
+283,5,Banjir satrio di kedua arah. Pemotor dan kendaraan sedan harap hati-hati mengantisipasi kendaraan mogok. @TMCPoldaMetro https://t.co/WpuM0S9N2s
+284,5,@RadioElshinta banjir di tebet.... https://t.co/jp8nfmI4Jw
+285,5,"kasian bet temen gua, dah jalannnn. Pas nyampe eh banjir selutut:( #banjirr https://t.co/CT4VGPqfqM"
+286,5,lapor pak @aniesbaswedan kiriman aer nya sudah kami terima dengan baik dan akan segera kami distribusikan.. #banjir https://t.co/buILPmqzcv
+287,5,Akhirnya sampai juga setelah menerobos banjir.. https://t.co/TqEUevU1rH
+288,4,"Hari ini bebas plat Gage, secara dimana2 banjir dan jalanan stuck macet parah.
+Jakarta makin amburadul dan kumuh.
+Tiap hujan banjir, menyedihkan. 
+@DKIJakarta 
+#sinkingjakarta https://t.co/5ov5wLT0Y2"
+289,5,Tadi pagi 08.18 #banjir https://t.co/TQtTzKBmFr
+290,5,"#Repost @_pln_id with repostsaveapp  
+ ・・・ 
+
+Untuk Keamanan Warga, PLN Amankan Listrik Wilayah Terdampak Banjir.
+
+Berikut daerah yang listriknya sedang kami amankan akibat banjir di wilayah DKI Jakarta per 25… https://t.co/ksVLRohbIX"
+291,2,"Jakarta Banjir?
+Emang Gw Pikiriiin..
+Gembira Ajaaaa Yuuk 😋😋😋 @ Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia https://t.co/t52TdFDNqz"
+292,5,Area terdampak banjir hari ini.... :'( @ South Jakarta https://t.co/VvVR2vPLmV
+293,4,"TRANSPORTASI UMUM
+•
+•
+Dalam hal ini, menjadi alternatif yang fundamental disaat akses di daratan terkendala banjir musiman
+•
+•
+@1000kata x100nesia @fujifilm_id 
+•
+•
+#1000Kata #X100Nesia #X100VUrbanLife… https://t.co/FY8j8Tcw2r"
+294,5,"Sahabat, hujan deras dari dini hari,  25 Februari 2020, hingga pagi ini tak kunjung reda, menyebabkan Jakarta dan sekitarnya kembali banjir, ketinggian banjir pun cukup beragam
+
+Berdasarkan informasi resmi dari TMC… https://t.co/5LSNLTyvX7"
+295,5,"""banjir di vespa lebih sering terjadi dibandingkan banjir ibukota"". (bensinnn banjir cukkk) (salam mesin kanan) #instagrammer #instagrammers #insta #videography #videooftheday #vespagram #instagramers #instagram… https://t.co/EE2zqCFEKO"
+296,5,Wah kena banjir ya @yunartowijaya https://t.co/b1N62HNnuO
+297,5,Buat mentemen yg ruma listriknya padam or tergenang banjir bisa bgt nginep di reddoorz utk stay safe &amp; comfy for a while. Bisa japri diriku karena harga yg ditawarkan dibawa applikasiy
+298,4,@fadlizon @aniesbaswedan Kalau menurut bpk ferdinand curah hijan tinggi dr tahun2 sebwlumnya adalah hasil karya Pak Anies. Berarti Pak Anies itu benar2 orng cerdas. Karena yg kita tau banjir karena cuhar hujan yg emang tinggi dan meningkat dr tahun2 sebelumnya.
+299,4,"Jakarta banjir terus , gabener nan  soleh dan santuy https://t.co/RRBiPFFPRS"
+300,4,Tendean jir ini haha dari blok s ke arah pancoran di tutup banjir yg rawa barat. Yang dari pancoran arah ke blok m ditutup banjir di pondok karya. https://t.co/MwKeaRzimg
+301,2,"Hallo sobat TPM
+
+Meskipun beberapa titik di wilayah Jakarta pada saat ini sedang terendam banjir, kita harus tetap semangat dalam bekerja yaa 😊
+.
+Team cleaning dari TPM tetap selalu tersenyum dan memberikan pelayanan dengan sepenuh hati demi terciptanya lingkungan yang indah https://t.co/IrW0YhmzNQ"
+302,4,Gue kira @DKIJakarta bakal menyerukan titik2 posko evakuasi banjir. Dan video @aniesbaswedan lagi berkoordinasi dengan Walikota se JKT. Ternyata gini doang @firmanyursak ? Ah DONGO lah!!! https://t.co/9G75zDVITR
+303,4,"Demo berjilid-jilid untuk memuaskan nafsu udel kuasanya @aniesbaswedan , kini datang adzab Allah SWT dengan banjir berjilid-jilid. Begitulah laknatullah pada seorang yang munafik lagi dzolim. 
+
+Kadrun, mana ayat palsu mu ??"
+304,2,"Bagi yang gabut dirumah karena kejebak banjir, siang ini #RakyatAkalSehat mau bagikan Informasi penting dari bang @FaisalBasri . Yang blm follow disarankan utk follow segera mungkin. Bantu sebar RT yah gaess..
+
+Semoga bermanfaat yahh... https://t.co/fX7Fb30IrB"
+305,5,"Keadilan itu redistribusi pajak untuk meningkatkan taraf kehidupan warga negara. Bukan distribusi air banjir, demi meningkatkan wabah penyakit warga kota."
+306,4,"Gue bagikan ini ke sebuah group. Dengan alasan membantu warga WAG mengambil keputusan dalam berpergian. Eh, ada KADRUN DONGO nyeletuk : ""Jangan sebar hoax dsni, ini data 2013!"" Buset, padahal dibawah tulisannya Created 2013. Selain adzab banjir, ternyata Adzab DONGO juga ada. https://t.co/MUf31XhZIt"
+307,2,@maxximall Wkkwkwkw banjir bukan termasuk force majure yaaa
+308,2,"@harapngerti Kaya kecoa hehehe, masa banjir banjir ada udang"
+309,4,Saking sayangnya sama gabener @aniesbaswedan demo banjir pun ke mall Jakarta Garden City
+310,5,"Miris
+
+Apa iya banjir ini menurunkan tingkat kemacetan? https://t.co/N5TwRJVN18"
+311,5,"Isi temlen banjir semua, mending gw upload video ini aja dah 🤭😬 izin ya ndoro🙏🏼 https://t.co/MwXos8Ovqn"
+312,5,"Warga Perumahan Pondok hijau Permai, Bekasi Timur dampak banjir pada dievakuasi setinggi bawu orang dewasa @RadioElshinta #banjirbekasi #ElshintaEdisiSiang https://t.co/IPj00dsmKa"
+313,2,"Jangan sampe ada statement sudirman-thamrin-bundaran HI ga banjir.
+
+Yaeyalah di area itu sistem drainasenya udah jelas. Kalo banjir yo MRTnya kelelep"
+314,5,"@andretrih Padahal bendungan ya, wes dibendung tetep banjir #dumtass"
+315,4,"Ada berkahnya juga banjir, Rawamangun-PEL cuma 20 menit. Tak kira jalanan bakal banyak genangan, jd bawa si item, eh ternyata engga.
+Tau gitu tadi bawa si kuning, biar nyantai."
+316,5,"Heemm 🙄
+
+""warga di luar cluster JGC jadi terkena dampak banjir akibat pembangunan cluster perumahan JGC dan AEON mall. Diduga, pihak JGC mengalihkan pembuangan air ke pemukiman warga di luar kawasan perumahan ""
+https://t.co/Va9A3SUSfb"
+317,4,"Ketika semua jalan ditutup karena banjir,  pemotor selalu ada cara,  bergelombol di simpang tol, berteriak ""darurat nih pak, kita lewat tol aja"" kemudian negosiasi dgn polisi dan petugas untuk masuk ke dalam tol. 😂"
+318,5,"Kampung di sekitaran kantor di Kuningan Barat terdampak banjir, parkiran gedung jadi tempat evakuai kendaraan dan dapur umum."
+319,5,"“Banjir milik kita bersama, ayo kita obati banjir” boleh tp pajak gw balikin. Paok"
+320,5,"@detikcom omg.. akhirnya anies mau kerja🥶, setelah berkali2 banjir besar baru akhirnya dia mau penanganan, bukan pencegahan sih tp lumayanlah drpd gakerja sama sekali"
+321,2,"@PAClearning Hati-hati terhadap sperma yang sangat kuat, sperma ini bisa jadi membuahi binatang yang terkena banjir juga sehingga terjadi kawin silang."
+322,4,"@dedewawaa Kitanya juga masih abai dengan safety sesimpel ngotak ngatik kelistrikan rumah sendiri, sambungan liar gitu2. Kalo banjir ya susah ngedetect bocor alirannya tau2 nyetrum."
+323,5,"@_uje ini barusan bang, depan hotel 88 tandean, jalur biasa awak lewat dr pasar buncit tutup krna #banjir https://t.co/YxA40dXx7d"
+324,2,@sinyaktafar @iloveaceh @misdarul @AsrizalAsnawi @atjeh01 Hujannya rahmat &amp; banjir nya sholehah kata bapak itu. 😂😂😂
+325,2,Bayangkan uang 1 Triliun buat penanggulangan banjir. Pasti bisa bikin banyak sumur.
+326,2,"Berikut Peta Banjir Jakarta. Semoga bermanfaat. 
+#aniesbanjir
+https://t.co/NfBZYU8Wow"
+327,2,@nananmd_ Bangka langganan banjir wkwkwkw
+328,4,Pokoknya banjir lab #jakartalumpuh #anisbaswedan
+329,2,Rumah di Ciputat. Gaya2an bahas banjir Jakarta. 🤣. Gw kasih link banjir lebih mudah diatasi jika saya jadi presiden. Ndokem ntar. 🙏
+330,2,"Di awal januari dan di akhir februari jakarta banjir, gausah saling nyalahin intropeksi diri aja semuanya."
+331,2,"@S_GraciaJKT48 Gua menerjang banjir gee mau gk mau tetep harus ke kantor, btw akses ke kampus lu banjir semua tuh, emang bagus laah di liburin, wkkw"
+332,5,"Jakarta Banjir, Ini Daftar Lokasi yang Tidak Bisa Dilalui Kendaraan
+
+#Banjir2020 https://t.co/l8jza5dM0a lewat @idntimes"
+333,4,"Underpass Kemayoran Banjir Lagi, Terowongan Tenggelam Tertutup Air
+
+Ini juga berulang.  Tanggungjawab Pemerintah Pusat. Sejak kejadian sebelumnya apa yang sudah dilakukan?
+
+#BanjirJakarta2020  https://t.co/qgxbkv9RuK lewat @idntimes"
+334,4,"Buat elo elo yg sok netral soal banjir biar diliat opini lo unpopular, lo goblok. Sok lawan arus bela anies. Uda bayar pajak blm? Tau brp gaji yg dipotong per bulan buat ginian? Ngentot"
+335,5,Ikut prihatin hari ini #banjir #BanjirJakarta #BanjirJakarta2020 #banjirbekasi terpaksa sepeda masuk Tol https://t.co/4VoE9IABZR
+336,4,@nurularifahw Opo sih su suwi2 lambemu tak leboni banyu banjir lho
+337,5,"Yah, namanya juga manusia, dikasih banjir orang disalahin mulu... #banjir"
+338,5,"@isal_anwar20 Mungkin atasan ga ngepush ke pasukan orange ,ini yang gue temuin ketika gue diskusi sama tmen gue yang pns dukcapil di jakut dia tinggal di bekasi ,rumah dia di bekasi banjir parah dan pemprove bekasi pun ga ada yang turun sama sekali kata dia ! Dan dia juga pun dapet vn."
+339,4,"@isal_anwar20 Dari gub vn nya ""TOLONG SEMUA JAJARAN PEMPROVE DKI AGAR TURUN KE KELURAHAN BANTU MASYARAKAT YANG TERKENA BANJIR"" apa itu ga ngepush ?"
+340,5,@Adilprawira Banjir dil
+341,5,"Dan terjadi lagi, kisah banjir yang terulang kembali https://t.co/MI6r8Zo5Ss"
+342,5,Tendean banjir #banjir
+343,5,"Buka TV banjir, buka FB banjir, buka Twitter banjir,
+buka dompet kok kering 😭"
+344,2,"Alhamdullilah rumah gue gak kena banjir, tapi semua akses banyak tertutup karena banjir. Bukan cuman akses jalan yg tertutup, nurani dan pikiran Gubernur @aniesbaswedan juga masih tertutup. Anyway Gubernur DONGO lagi dimana ? Bantu apdet dong... https://t.co/NNhSdKjoro"
+345,5,@nicoletumbelaka Kuningan ke arah grogol sih banjir
+346,2,"Ga sempet ngefoto anak anak yg lari kegirangan ke arah daerah banjir ""yeeaayyy banjiirr"""
+347,4,"Buseeet. 
+#AniesTenggelamkanDKI 
+#banjir 
+#BanjirJakarta2020 https://t.co/JFXj7qkHYC"
+348,2,Kosan Dan kantorku Aman dari banjir hamdulilah
+349,4,Dan semoga ga banjir 😂
+350,5,@sewuiwak banjir gaa
+351,5,@rivalmpls itu kantor lu banjir?
+352,5,"Kemang Raya, Jalan Bank, dan Jalan Tendean udah pada banjir ya gue gak berkutik sih. :’)"
+353,4,BANJIR TEROSHHH
+354,5,"Mau komentar ttg banjir, tp pasti sebagian jg ada yg bersyukur krn bisa ngk berangkat ngantor.. #BanjirJakarta"
+355,4,Jakarta siaga banjir di beberapa titik. Hati-hati ya semua. Kalau sempat jangan lupa sarapan yang enak. You deserve that.
+356,4,Jir.. Jir.. Banjir
+357,2,"Makasih pa gabener... Dikasih banjir di hari kerja... Jadi sy bisa libur dan banyak waktu dengan keluarga di rumah... 🙏🙏🙏
+Demikianlah ungkapan hati pegawai kantoran yg diliburkan kantornya🤭🤣"
+358,4,"KALO MASIH HARUS KELUAR RUMAH PAKAI MOBIL, PLEASE JGN PAKAI #Waze. sepertinya ia tdk bisa deteksi jalan tutup Krn #banjir. Saya terjebak di KEMANG-BANGKA karena semua akses tertutup."
+359,4,@yunartowijaya @BimaAryaS Kalo udah gini timmya goodbener sholeh bukannya sibuk cari solusi banjir tp sibuk cari materi ngeles yg paling mutakhir!!
+360,2,Mantul banjir
+361,5,"#banjir di tol jatibening arah jakarta.
+*Gambar diambil td pagi +-06;00
+@RadioElshinta 
+@SonoraFM92 https://t.co/RAMAU3VWSp"
+362,,#banjir
+363,4,@TMCPoldaMetro Ganjil genap berlaku gak pak? ribet nih dimana-mana banjir
+364,4,"Bohong + ngarang jual kesolehan 🤣🤣 ""Banjir cuma di hari libur"" ..oww hari Selasa ini banjir gede
+
+Pendukung Gabener : Banjir besar sellu hari libur kalau bukan 4nies gubernur soleh ini pasti terjadi senin selasa rebo ..
+
+kode cair gaes 😂😂
+
+#Kick4nies https://t.co/fXlyuZop3n"
+365,5,"#banjir sedih juga klrga saya di cempaka putih makin sering banjir dan lbh tinggi diatas mata kaki di dlm rumah
+bagian dari kesabaran adalah terus berdoa supaya Pemimpin DKI cepat diganti"
+366,2,@GunRomli @aniesbaswedan Yaa kalo saya sih mending banjir dari pada neraka🤣
+367,4,Seminggu 3 kali banjir wajar ga sih? Kimakk
+368,5,"Jalan lewat mana nih yang ga banjir, Tanah Abang, Sudirman dan Rasuna wess ambyarr.."
+369,5,"busway arah ragunan monas via kuningan gaada karena banjir, sekalinya ada cuma sampe kuningan madya. Alhasil arah monas cuma bisa naik yg via semanggi, dan taudong gmn padetnya itu didalam busway #BanjirJakarta #busway"
+370,5,Waspada #Banjir https://t.co/4r5zDOWWJV
+371,5,#Banjir jakardah lokal hujannya bahagia warganya ? #BanjirJakarta2020 #WajahBaruJakarta https://t.co/lZdXwTId7h
+372,5,Waspada #Banjir #Jakarta https://t.co/n3z44VizWZ
+373,2,efek banjir sendal ini handalannya....ga tergantikan dah #BanjirJakarta https://t.co/zj4q8XDhYj
+374,5,@jansen_jsp @SBYudhoyono Kebayoran Baru daerah Poncol sdh banjir pak... Kesian pak...
+375,5,@ustadtengkuzul Banjir di Kebayoran neh pak... Aduhhhhhh yg penting dong diurus... Gk penting ya di batalkan saja
+376,5,"banjir lagi, gimana berangkat ngantornya ini..."
+377,5,"sekarang tiap ujan pasti banjir, udah gitu weekend lagi, heran gw tuuuh..."
+378,5,Ujan lagi. Banjir lagi. #AniesTenggelamkanDKI
+379,2,"Hal pertama pagi ini adalah cek trending, karna ujan dr semalem dan bener..trending #banjir
+Stay safe everyone"
+380,4,"Tengah malam ujannya awet deres smp skrg. Banjir lg ini mah. Kemarin siapa yg bilang kalo banjirnya hari libur? Begadang boleh jangan? 
+#StaySafe 
+#BanjirJakarta2020 https://t.co/s3Gr2tJsHr"
+381,4,"Apakah kelak ""tidak terkena banjir (khususnya di tempat tinggal)"" menjadi sebuah keniscayaan di Provinsi ini serta Kabupaten/Kota sekitarnya?"
+382,4,jl bangka menuju kemang ditutup banjirrrrrr #banjir
+383,2,"#Banjir di JKT sekarang udh ga tinggi lagi,  tapi sering! 🤣"
+384,5,Ya. Ini banjir yang ke-4 tahun ini.
+385,2,@deboyobed banjir mana boy
+386,4,@handokotjung Rumahmu aman? Ga banjir?
+387,4,"Hadeuuuhhhhh jakarta banjir gila2 an ,,, formula E jalan terus"
+388,4,@yunartowijaya @aniesbaswedan uhuyyy banjir maning
+389,4,rekor baru utk banjir jkt https://t.co/wEX88vjYyX
+390,4,barusan dr muara baru pelabuhan ikan gak banjir tuh padahal dsebelah laut?? https://t.co/OY15OeZPiY
+391,2,@ariyoryo alhamdulillah smb numpang g banjir mas
+392,2,@ariyoryo lu banjir g binus
+393,4,"Masih bingung. Dari awal tahun banjir bertubi-tubi. Dari daerah yang nggak pernah banjir, tiba2 banjir.
+
+Namun, nggak ada action plan sedikitpun dari gub Jkt. Malah pamer #WajahBaruJakarta yang cuma di Sudirman. Pake edit langit biru segala."
+394,5,Turut prihatin daerah yg masih terkena #banjir #BanjirJakarta2020 semoga lekas surut ya gaes https://t.co/9wlnKfqIcR
+395,4,"@ustadtengkuzul Rakyat menunggu di ungkapkanya semua otak² yg cerdas mengatasi BANJIR yg ada di Jakarta, bukan karena formula E yg ngawor &amp; terlihat sangat NGACO karena formula E itu lebih penting ketimbang mengatasi banjir yg ada di Jakarta
+Mungkin org ini belom berenang
+Woy"
+396,2,@petabencana I got it #banjir
+397,5,"Malam hujan tuh enak bikin tidur nyenyak, tapi klo ujan nya gede riskan banjir kayak kemarin.
+Jam set.3 gue dibangunin dan air udah naik dong."
+398,4,"Banjir - Kunjungan - poto2 - banjir - kunjungan - poto2 
+
+Gitu aja terus sampe Sinchan lulus kuliah
+
+#GubernurTerbodoh 
+#gubernurgakbisakerja"
+399,4,@lulugaz Wakakaka.. Ia tapi td pagi lewat mall cp jam 9nan udah gpp sih.. Cm di jktinfo trisakti banjir...
+400,4,"Jakarta Banjir lg mlm yaaa duh, ini tanda apaan sih🤔🤔"
+401,4,Jakarta banjir lagi. Enjoy sunday !@aniesbaswedan #BanjirJakarta2020
+402,4,banjir banjir gini logika si ibu yg dr @kpai itu bakal kejadian gasih. kasian amat yg kena banjir perempuannya terindikasi bisa hamil
+403,4,banjir mulu @aniesbaswedan
+404,2,"Selamat Hari Minggu gaes.. jangan lupa BAHAGIA walau berjauhan dengan si DIA.. met #MingguRebahan 
+Singer : @yazidev 
+Figuran : @Cak_Didi @Novandri86R 
+Camper : @ahmadlabieb 
+
+#banjir #minggupagi moga cepet surut https://t.co/U6JAlwxyhS"
+405,4,"@ferrykurnwn Rumah saya n sekitar nya ga pernah kena banjir,makasih ya atas perhatian nya.rumah perrikun gimana aman kah"
+406,2,"Pada banjir lagi ya? Kmrn gue balik jam 11 dari Kayuputih ke Semanggi, hujan emang deras bgt sih. Stay safe and jaga kesehatan!"
+407,5,@evriiiii Itu katanya hanyut kebawa banjir gitu. :(
+408,4,@sgyt Lek ngerti dewe nek thamrin-sudirman sing kerep dibanggake bus edan ae banjir piye sing wis daerah rawan🙈😱
+409,4,"@sgyt Nah....
+Eug sih dirumah nyokap gak pernah banjir....
+Semoga cepat surut deh 🙏🙏🙏 https://t.co/EP16z44yFi"
+410,5,"Subuh"" sudah di suguhkan dengan kolam renang Jakarta banjir https://t.co/Luf5MoRNxN"
+411,5,Jakarta banjir lagi di Hari Minggu
+412,5,"Pengen tidur, tapi was - was sama banjir udah masuk kompleks 😭"
+413,5,"Anak jakarta selatan, daerah kalian banjir gak ?"
+414,2,"Makanan Rohani 1 Menit, dari lokasi bencana banjir bandang, Sangihe:
+“Tetap andalkan Tuhan” https://t.co/3yOZWF0VX2"
+415,2,"Banjir lg
+Gara2 penasaran 
+Aq beneran bs squirt  apa gak
+Pas lihat qu bs squir
+Genjotanya makin kenceng
+Jd makin bajir dah aah
+Klo ditrusin bs tambah luber tuh kasurnya🙊🙊 https://t.co/bJW3KeiO97"
+416,5,Banjir banjir.
+417,4,"Baca berita ini sampai tuntas, memang ternyata resepnya sederhana aja. Yang penting DIKERJAKAN dan terus-menerus. https://t.co/iKbT7tBAr3"
+418,4,"Rapat Kerja Komite-3 DPDRI dgn Mentri Kesehatan RI, di suasana banjir &amp; macet di DKI Jakarta. @ Dewan Perwakilan Daerah Republik Indonesia - DPD RI https://t.co/q7h4z4lPv8"
+419,2,Listening to the sound of raging waves while sipping my favourite tea in this loveling morning. #WeLoveJakarta @ Rumah Gue Banjir https://t.co/myhsPqQbdZ
+420,4,"Ketika banjir besar zaman Nabi Nuh, nggak ada yg nyalahin dan mbuly Sang Nabi.
+Tapi dizaman now, banjir di ibu kota negara habis²an mbuly gubernurnya."
+421,4,"Lucu ya dengan orang2 yang suka menyalahkan orang lain atas kesalahan sendiri, jakarta banjir nge judge nya ke 1orang, bilang gak becus bla bla bla
+hey dude, you have a mirror ?
+Yuk ngaca bareng2 kita udh bener blm jaga lingkungan, buang sampah aja masih pada gak ditempat nya 😪"
+422,4,"@olencieile @jr_kw19 @aniesbaswedan @ustadtengkuzul Setiap banjir tanda tangan 57 Milyar, makanya mau ustad, jawara dan gerombolanya bela mati😡😡😡"
+423,4,"Mana TOA....TOA GUOBLOOOK
+Banjir Kok TOA mau khotbah😡😡😡
+Nies....Anies @aniesbaswedan kamu atau consultanmu yang pekok
+@jr_kw19 
+@BiLLRaY2019 
+@Dennysiregar7 
+@Namaku_Mei 
+#AniesTenggelamkanDKI 
+#AniesBaswedanJuaraBOHONG 
+#AniesGabisakerja https://t.co/TIvHVWQLTs"
+424,4,"@dimasblack94 @jr_kw19 @aniesbaswedan Anies.....anies program mu ga mutu 
+Banjir vs TOA
+#AniesTenggelamkanDKI"
+425,4,"Banjir? Macet? Bodo teuiiing!!!
+Nu penting mah aing nyapres 2024!"
+426,5,"Dari pilihan kata2nya saja terlihat JAHAT, walau nampak sopan 😭😭😭.
+
+Siapa yg gak ngizinin sih?
+
+https://t.co/IUu10IeCep"
+427,4,@ayyasarisha @adhitep Mau aku kirimin safety boots ga? Biar aman terkendali dari banjir
+428,4,"Pemprov dalam hal ini bukan bapak anies aja kok. Banyak yang bertanggung jawab untuk banjir Jakarta. Tapi, sebaiknya dimulai dari jabatan tertinggi di Jakarta. Beri kebijakan dan penanganan. Kalau bicara intropeksi diri sendiri, masyarakat punya segudang masalah. Masa ditambahin?"
+429,4,Udah berjuang nerjang banjir sampe muter muter cari jalan. Sampe kantor cuma ada mba admin yg ngekos sebelah kantor. Dan yg lain ga masuk. FAK!!!!!!!
+430,5,Di Manggarai... dari jam 7 pagi. Nunggu 4 jam karna jalanan pd banjir. Dapet gojek ke tempat kerjanya jam 11 lewat. Padahal brngkt dr depok subuh. Jakarta keras cuy... 😂
+431,4,"@SuaraAnies komen dong soal banjir HARI INI~
+
+Diem2 bae 😴😴
+@yusuf_dumdum"
+432,,@petabencana #banjir
+433,5,Yah allah banjir dimna mana 😭
+434,4,"Perencanaan kota-kota mandiri biasanya berujung kearah segregasi di lingkungan sekitar, gak kaget akhirnya mereka yang teeimbas banjir akan menyalahkan kota-kota ini https://t.co/7z9RmJit9T"
+435,4,Itu coba yg ngomong banjir cm di hari libur disuruh ngokop air banjirnya
+436,4,"Waktunya berkembang biak, banjir di mana-mana, bisa renang kapanpun, di manapun"
+437,4,"Gubernur aing ge gitu2 aja, padahal Bekasi banjir lagi hari ini 🌊"
+438,5,"Buka tv banjir, buka whatsapp banjir, buka twitter banjir, buka dompet kering. Nasib 💔"
+439,5,"""Eh kirimin story lo yang banjir dong, mau gue kirim ke Grup Kantor gue"""
+440,4,"Anies gubernur soleh = banjir hari libur
+
+Jika hari selasa banjir, maka? https://t.co/ZH3yNtzIsy"
+441,2,pengen deh ngerasain banjir wkwk. ga deng boong~
+442,4,"Beberapa bulan yang lalu joke soal banjir masih sangat tabu, until someone push the limit. And he made it. Batas toleransi bercanda soal banjir kian luas. Dan itu yang dibutuhkan Indonesia sekarang. Bercanda itu salah satu cara menyampaikan kritik. @pardedereza @pandji"
+443,5,"Buka WA banjir
+Buka Facebook, IG &amp; Tweeter banjir semua..
+Buka dompet kering 😭"
+444,1,"Saat yg lain sibuk sama banjir
+Gw sibuk ngebucin..... https://t.co/UAoJutlF3S"
+445,2,"#StaySafeJakarta dan sekitarnya. Coba absen, siapa yg kena imbas #banjir hari ini? https://t.co/hC4G76wwDO"
+446,4,Apakah banjir jkt saat ini itu yg dimaksud naturalisasi???masy.miskin info apa yg dilakukan utk minimalisir banjir....sejak 2017 blm ada hasil yg terlihat nyata
+447,4,"@TheArieAir Coba air banjir di jakarta sebening ini, saya yakin anis bisa jadi pesinden (,"")"
+448,4,"Seperti yg saya duga, banjir ini dipelihara, upaya narasi seperti ini tetap bisa digaungkan, mereka msh ngerasa Jokowi bisa capres lagi 2024 https://t.co/3IikrpoF8q"
+449,5,"Banjir, pd telat"
+450,5,"@detiin Ngga zheyenk beneran, soalnya mau kedaerah gatsu juga tgl segitu. Btw banjir ga kantor?"
+451,5,"“Banjir boss”
+Be like: https://t.co/p6wAM9Gp5P"
+452,4,Bencana banjir gini udah ga lucu lagi buat becandaan. Sumpah ini tuh ada yang salah!
+453,4,@pervertauditor Ke kantor menerjang macet dan banjir cuma utk ambil laptop biar bs WFH 😂😂😂😂
+454,4,"@VICE_ID Jakarta banjir hari libur, berenang hamil?"
+455,4,"“selamat pagi” dan ""selamat malam” itu tergantung siapa yang mengucapkan.
+
+#banjir"
+456,5,"Kemarin sempet nyaranin temen2 buat beli rumah tapak aja karena beli apart sepertinya kurang menjanjikan utk investasi jangka panjang, apalagi tidak dihuni. Tapi kayanya sekarang apartmen jauh lebih worth jika jakarta terus2an banjir."
+457,5,"Yang mau ke arah radio dalem, dari MT.haryono mending lanjut lurus aja via Gatsu lebih Aman, gak Ada genangan #banjir"
+458,,"@alitthyas @CommuterLine Jalur 6 di Sta. Tenabang kerendam banjir, Mas, jadi cuma 1 jalur yg bisa dipakai. Semua rute Tenabang-Rangkasbitung terlambat."
+459,,Pa'bro @aniesbaswedan semoga tidur anda nyenyak semalam. &amp; Kiranya hari ini blusukan ke titik berat banjir. Good luck little brain
+460,,⚠ Buat teman dan rekan yang akan beraktifitas hari ini bisa cek lokasi-lokasi banjir disini agar bisa diantisipasi dan dihindari 📌 https://t.co/jSVNkZuQFA
+461,,"hujan terus, baiklah. Banjir terus?"
+462,,Amin semoga #banjir #BanjirDKIJakarta lekas surut ya 🙏🙏 https://t.co/W9ERLWkuUQ
+463,,Yeahh banjir everywhere https://t.co/0mTqUX9UvR
+464,,"@TMCPoldaMetro om, tol jor dan jakarta-tangerang banjir gak?"
+465,,Daerah kalian banjir kah? Semoga segera surut ya.
+466,,"Tumben2an nih kos nggak banjir, biasanya yg lain banjir sini juga gamau kalah"
+467,,Efek banjir tuh mmg kemana2 ya.. jalur sultan krl aja sampe ketahan2 mulu.. hadehh #banjir @CurhatKRL
+468,,"Manusia tertambeng hampir hampir tiap hari jadi trend topik loh...
+Kasian sama yg kena banjir berkali kali.
+#BanjirJakarta2020
+#4niesTenggelamkanDKI"
+469,,@sassysadless Eh beneran banjir loh
+470,,"Nih otak buat mikir..
+
+#banjir #Banjir2020 https://t.co/1Z0LUFxJbG"
+471,,"TOA MANA TOAAAAA WOYYYYYY @aniesbaswedan 
+
+setiap hujan, BANJIR terus
+
+solusi mana?? Gak butuh rangkaian kata disinii"
+472,,"2 jam lalu baru aja terabas banjir di Boulevard Gading, sedengkul, air sampe masuk kabin ± 1 cm, Alhamdulillah masih jalan dan gak ada yang aneh sama mesin mobil. Semoga besok ke bengkel gak kenapa-napa."
+473,,1 Bulan 7 Kali Banjir Gokill
+474,,""" DKI banjir lagi ya..kata abang-abang jawara, banjir itu berkah "" - @permadiaktivis https://t.co/toSeN70Q1b"
+475,,"datang lagi musim hujan 
+BANJIR. https://t.co/iJJctdVqFc"
+476,,"Boro"" ngaceng, burungnya pd kedinginan,, di mana"" banjir🙏🙏🙏"
+477,,@B__kam Adminya masih beresin kasur dari banjir
+478,,"Paling jauh keliling eropa, abis budget 15jt... Sisanya nyari suaka 🤣🤣🤣 kidding... Sisanya dpt rejeki dibayarin.
+
+Stelah kejadian banjir kmrn, jd mikir utk ga beli bnyk2 barang, krn ribet bgt nyelametinnya. Rmh pun kayanya ga mau yg lebar, maunya ditingkat aja. Dh. https://t.co/3Ts7FfBnSe"
+479,,@ChusnulCh__ Ke bagian banjir semua kan 😁
+480,,@AkuDiani Banjir gk tempat kamu??
+481,,"@gloriamadona @BungRetweet 2014 Banjir Pulomas nih, anies udah dilantik kan ya, wkwkwk https://t.co/pWFKqiGq9e"
+482,,Banjir di Jakarta dng Kolam Renang punya kesamaan = sama2 bs menyebabkan hamil🤣😂 #spermaganas
+483,,"3 years ago ""Banjir terjadi karena pemimpinnya kafir dan jumawa"", coba skrg di balik
+ ""Banjir bertubi-tubi di Jakarta tahun ini bagaikan jawaban Allah akan umatnya yg suka menistakan agama &amp; membohongi sesamanya pakai ayat2 suci untuk kepentingan meraih suara demi kekuasaan."""
+484,,"@aniesbaswedan @DKIJakarta pak ada baiknya bapak foto macam action nyata untuk mitigasi banjir jakarta, apa kek, pompa baru sambil jumawa bakal bisa nyedot air berapa kubik tanpa rusak, foto bantaran sungai yg di naturalisasi kyk singapura."
+485,,"@Fahrurozi8410 @S_FloraJKT48 @Viny_JKT48 nggak bang, banjir soalnyee"
+486,,Galau banget nyuci mobil apa kaga tapi inget semalem abis nerjang banjir kemang dan kuningan arkkkk
+487,,Tumben lho sudah 24 jam @aniesbaswedan gak ada ngetwit masalah banjir minggu dini hari?? https://t.co/t5l3CeaKfA
+488,,"@kumparan Jangan sering2 ya bu
+Lagi musim ujan banyak banjir banyak yg hamil nanti"
+489,,"""Dari jaman kumpeni jakarta udah banjir, siapa suruh bangun di jakarta"", kata seorang pemuda yg sehari hari menanam kursi https://t.co/dDTpYbPX9L"
+490,,"@detikcom @detikHealth Ambil positifnya, sekarang banjir semakin inklusif. Udah merata. Semua tempat bisa kebagian, ga ada yang ngiri lagi kan."
+491,,Jakarta itu sejak dulu memang sudah banjir. Jadi harap maklum katanya
+492,,😂🤣Orang Terkaya RI Sebut Banjir di Era Anies Lebih Cepat Surut https://t.co/57Frh6VY5N
+493,,@bygabbyyyy Gak banjir rumah lu?
+494,,"Semalam hujan. Beberap tempat banjir. Imbauan buat warga (khusus perempuan). Jangan terlalu banyak keluar rumah, apalagi di lokasi yg ada genangan banjir. Nanti bisa hamil. Sekian. #ApaIniDarkJokes (?)"
+495,,@___denmasNg @Aininoer12 @aniesbaswedan @DKIJakarta Baru 2bulan aja nga tau udah brp x banjir
+496,,Apakah Sesungguhnya Banjir itu Tentara Allah SWT yang diutus untuk 'menenggelamkan' Gabener hasil jual AyatNya?  Tanya Bang Somat sama Bang @aniesbaswedan
+497,,"@aniesbaswedan @DKIJakarta Banjir, atasilah dengan Toa.
+Bancot, atasilah dengan Gabener"
+498,,"suatu ketika..
+👳 Kamu hamil sama siapa,jawab jujur..!
+👧 Maaf pak kemarin aku abis berenang lupa pake Daleman #sperma
+#banjir 
+#bacotsantuy"
+499,,"#Jakarta #banjir Hati2 Buat Para Wanita Jangan Maen/lewat Daerah #banjir Bareng ams Laki2 ya,Ntar Kalo #hamil Repot Loh,,,
+#BanjirJakarta #banjir #Jakarta  #janganlupapakecelana"
+500,,"Mudah2an didenger Aduan Warganya buat Pak Gubernur #anies #JakartaBanjir lagi nih,Mudah2an Proyek #FormulaEJakarta ga Ke #banjir  ye,,, #mundurkotanyasedihwarganya #janganlupapakecelana"
+501,,Loooh calon ibukoto barunya banjir. https://t.co/kVcqt2Z2ie
+502,4,Rasuna Said ini drainasenya parah banget dah. Langganan tetap kalo hujan deres pasti banjir. https://t.co/fAEEgIii96
+503,,Siapa ini yg belum matiin keran aer depan rumah? Jakarta banjir lagi kan jadinya
+504,,@reregiii Ah sarinah banjir? Wow
+505,,Abis petualangan membelah banjir jakarta bersama @desirs___ &amp; @amadealmira
+506,,"Februari sudah mau selesai tapi curah hujan yang menyebabkan banjir masih tinggi ya. Nah, ini himbauan @pln_123 ketika banjir melanda.
+
+Stay alert ya! https://t.co/KVhIdYMvHr"
+507,,"@syafrinkar Maksud Jkw banjir duit dan banjir pendatang,kalau banjir air,jangan tanya,luubeeer..!"
+508,,"Atau klo hujan bisa kayak gini nih...
+Ngeri kan klo ada lubang trus gak keliatan krn banjir. Iyes pdhal serame ini jalannya.
+#JalanPerancisTangerangRusak
+@PemKabTangerang
+@Kota_Tangerang
+@AriefWismansyah
+@OmbudsmanRI137
+@kataTANGERANG
+@KemenPU https://t.co/2x0YE4W9ne"
+509,,@blank_ignite Sing banjir rejekina cspap
+510,,"@AkuDiani Hujan hati"" banjir lagi"
+511,,"Baru tahun ini banjir, selama tinggal ga pernah tuh aer masuk ke dalem rumah 
+#banjir https://t.co/VxkSlklG3c"
+512,,Seumur2 selain hari raya cuti bersama tol JoRR kosong melompong kayak gini (Bekasi Cikampek Banjir) https://t.co/Bay31oWI9K
+513,,23-02-2020 Pukul 02.00 Wib #banjir https://t.co/lkaGaySqhx
+514,,"Banjir terpancen oye dari 20 tahun ku di Jakarta :)))
+
+Mana posisi ku sm adek lagi nginep dirumah temen, jadi dirumah cuma ada bapak sama ibu huehee sungguh anak yang berbakti 😬 #BanjirJakarta https://t.co/v3UuKjrrye"
+515,,"Banjir!!!! seumur hidup tgl di sini baru kali ini banjir, good job pak anies!👊🏼 https://t.co/y5oyKCMNEs"
+516,,#banjir sudah berangsur surut. https://t.co/x1O2kGZTgO
+517,,"Astagfirullah Pagi2 udh kejebak banjir aja,  gimana mau ke kantor nih gw kalau jalanan seperti ini!!  
+#Banjir https://t.co/D428dMmRUz"
+518,,Baru kali ini dalam rentang waktu 2 bulan kena banjir duakali. Pertama 1 januari 2020 kedua hari ini 25 februari 2020 padahal tahun-tahun kebelakang ga pernah kena banjir #WajahBaruJakarta @layananjakarta @info_Jakarta @JakartaToday @jakarta https://t.co/ptQiODleYg
+519,,"Ketika #banjir ada aja yang se-enaknya parkir,buka pintu pas bangun,tau2 udh ngejogrok aka entah mobil siapa,padahal tiap pagi buat jualan,sampe yg mau beli pada miring2 cari tempat buat nunggu #wismatajur #ciledug #setnegciledug #tajurciledug https://t.co/9wZTjOpAEf"
+520,,"Presiden Jokowi Benar, Kalo Calon Ibu Kota yg baru Tidak Banjir.
+Knapa demikian...?
+👉 Krn Pada saat Presiden Melihat Lokasi, Memang Tidak Banjir.
+👉 Para pengikutnya He'eh aja Tuannya ngomong spt itu. Tdk dikaji lebih dlm.
+
+Kenyataannya..?
+Banjir DOEL..!
+
+https://t.co/ttSWlGe5fO"
+521,,Banjir parah kokas😭😭
+522,,"@petabencana #banjir baniir kedua kalinya tepatnya Gang Karya 3 menteng atas, setiabudi jaksel dan banjir kali ini paling parah hampir mau selutut😩😭"
+523,,"Cipuy udah siap diangkut pas banjir semalem.. 😹
+Cr.📸 : Pak Satpam https://t.co/ih82BxVy8G"
+524,,"Cukup mantau dari WA, facebook, semua status banjir.
+
+Semoga nnt malam jalanan yg saya lewatin gk banjir (Masalah berat aja bisa saya lewatin masa banjir gk… https://t.co/cRwutSUZPv"
+525,,Kaum rebahan 🙂 #banjir https://t.co/lSQiSerlS2
+526,,"This my school how about your school ?
+
+#banjir 
+#Banjir2020 https://t.co/8UtZmFogez"
+527,,Banjir gauiz! https://t.co/dsEx5egHCm
+528,,"Untuk ciwi2 jgn keluar rumah dulu yaaa sebelum banjir surut, takut hamil.
+
+#apasihAJG"
+529,,Bakalan banjir lagi Jakarta besok nih! #jakartabanjir
+530,,@petabencana #banjir
+531,,"Semoga besok banjir udah surut yaaa
+Biar cepat kelar"
+532,,"Mohon ijin mas @solehsolihun 
+#yangpentingsoleh #soleh
+
+""Kita harus bersyukur banjir besar di hari libur lho. Ini kalau bukan An*es gubernur SOLEH doanya ini (banjir) terjadi Senin, Selasa, Rabu,"" https://t.co/Mz8sVBo1oZ"
+533,,"Aeon Mall Jakarta Garden City 
+Di demo warga sekitar yang terdampak banjir hari ini,
+Stay safe temen2 yg lg mengais rezeky dsana 😭😭😭 https://t.co/z0PxSLWIHq"
+534,,"Jadi mreka warga luar cluster terdampak banjir yg komplain krn mreka kebanjiran, tapi daerah Cluster Aeon MallJGC TIDAK kena sam-sek 😟😟😟🙃🙃 https://t.co/VaxmupA0jp"
+535,,"@idrisbue @retno_setyowat @ErindaSofi @KelianBanjar_GK @KeceCebong226 @sjahtie @JKDaulay @nadreaselta @ernithea74 @SakinahMudhiiah @Midjan_La @Namaku_Mei Ini seharusnya sdh warning terakhir bg pemerintah Jakarya. Pls, jgn sampai terulang lagi seperti begini. Manajemen antisipasi bencana di kota besar kok kaya pasrah aja. Auto pilot style. Nggak ada usaha yg signifikan sejak banjir thn baru."
+536,,"@kompascom Bukan soal banjir kanal, hanya air kolam renang instan yg antri masuk ke tanah. Gitu aja kok, prioritas solusi yg masih kalah urutan sama politis aja kok."
+537,,"Yang penting formula E ttp terlaksana.
+Banjir?
+Ntar aja, kalo inget.."
+538,,Kapos gue pun yang tinggal dibekasi kena banjir. Dan brief pagi Beliau begini @hrdbacot https://t.co/hFXV2VrUty
+539,,banjir banjir
+540,,Allah Maha Baik untuk hambanya yg gak hapal rute jkt. Disuruh pulang aja. Banjir. #PrayForJakarta https://t.co/6Z2kZQDfZl
+541,,"Banjir yak? bisa kepake lagi cuti force majeure nya deh..
+
+Terimakasih pak Anies huehue"
+542,,Legok permai banjir tidak ya?
+543,,Yang penting banjir dulu https://t.co/zZjZxl4pKw
+544,,TERPANTAU HUJAN TAPI TIDAK BANJIR TAPI KAMAR BOCOR.
+545,,"#banjir sepaha orang dewasa, di Pondok Jaya III-Pela Mampang... dan masih ujan juga #WajahBanjirJakarta #WajahBaruJakarta https://t.co/b2wdH3LVHF"
+546,,"@piokharisma Greenlake juga sama mas. Gak banjir si kompleknya, tapi akses menuju kompleknya😅
+Kemarin anak kontrakan lama ada yg sempet gabisa pulang. Udah paling bener tinggal di kebon nanas"
+547,,"Nga lama nge twet wajah baru Jakarta,  langsung dikirim musibah,  sebaiknya jangan pamer  keberhasilan padahal kegagalan.
+Coba inget inget sdh berapa kali nyombong, langsung dibayar kontan banjir 😯 sepertinya alam juga sebel. https://t.co/zaOGO4tMan"
+548,,"Iya juga 😀😀 maaf bro,  nti klo banjir lagi hari kerja,  yg hari minggu kan masa promo. https://t.co/AQB7SPMzqF"
+549,,"@Sendy_a Tadi pagi telepon ortu di rumah, di dalam rumahku udah banjir sepaha, di jalanan kemungkinan udah sampai pinggang.. daerah Boulevard sama Pasar family bisa jadi lebih parah lagi."
+550,,@agusmujiantoo @Rifka23061 @kompascom Siapa pula yg bilang itu solusi... Cuma mo kasih tahu sejak ratusan tahun lalu Jakarta itu udah langganan banjir.  Siapapun gubernurnya gk bakalan bisa atasi.  Termasuk yg janji atasi kalau jd presiden aja nyerah. Pilih pindah ibukota.  🤣
+551,,"Pulang jangan lewat sini, banjir tau
+#JalanPerancisTangerangRusak"
+552,,Asrama banjir mantap sekali
+553,,"Belom yg dari kali aja naik ini 🤪
+#banjir #BanjirJakarta https://t.co/cZcep3Lmww"
+554,,"Banjir? Jogetin aja...🤣🤣🤣
+.
+.
+.
+#tiktok #tiktokindonesia #banjir #banjirjakarta #pesonaindonesia #enjoylife #dance #joget #viral #indonesia #ambyar #videolucu @ Buncit Rolas https://t.co/7dCrIcEGL7"
+555,,"Indonesia gampang bgt klo mau buat Parasite versi kita. Shoot di Tambora,Koja, sama shoot di kompleks perumahan elite Pondok Indah, Menteng, PIK, Kemang, atau apartemen2 mewah
+Kejadian warga korban banjir ngamuk di Aeon udh jd slh satu potret nyata"
+556,,Saldo kek yg banjir jangan jakarta mulu
+557,,Sama bgt😭 banjir ngga bocor iya https://t.co/xrwxK99OgJ
+558,,@petabencana #banjir
+559,,Perihal banjir kita mau nyalahin siapa lagi? Presiden? Gubernur? Pemerintah? Atau intropeksi diri :((
+560,,"Diluar negeri virus corona, di Indonesia banjir..  Ya allah semoga kami selalu berada dalam lindunganmu Aaminn 😭"
+561,,Penangkal cuaca hujan lebat.. #banjir 😁 https://t.co/WwbblGRivg
+562,,"#AzabGabenerBodong
+
+BANJIR DI HARI LIBUR https://t.co/7frS7g0k7k"
+563,,Ey mau ke kuningan aja muter kiri banjir muter kanan banjir hedeh
+564,,"@giegoooy @miagaswara Makasih pak anies, jadinya saya bisa work from home terus tiap ujan deres dan banjir"
+565,,@petabencana Di kemang utara ix #banjir https://t.co/SGbXWpXRtu
+566,,"depan kemchik , tendean, mampang, pasar buncit banjir 😱😱"
+567,,"Banjir belum surut,  udah raining again.. Stay safe everyone ~"
+568,,Banjir anjing
+569,,"@JoshuaRicado_ jangan di update banjir
+itu cuma #airnyangantri"
+570,,Banjir jakarta. Sekolah keponakan gue diliburin dong 😂 #banjir
+571,,Kalau banjir motornya lewat tol aja biar cpet nyampe kantor..
+572,,Ngapunten sak meniko sampen dinten selasa dan banjir tesih parah. Pripun @bamusbetawi ? Mbok nak nggawe statement sik pas ro kahanan. https://t.co/2MSvLYiQoz
+573,,"Next time pilih pemimpin Pisces sekali2 deh
+Gemini udah, taurus udah 
+Masih aja banjir *halu nunggu hujan"
+574,,"Titik2 banjir makin banyak yg baru. Perumahan yg tdnya ga banjir skrg banjir
+Makin bingung buat org2 yg mau beli rumah di Jakarta dan sekitarnya
+Udh paling enak tinggal di Bandung emang"
+575,,"Dl pas kecil pertama kli ke Jakarta, gw sk heran kok berani ya org2 ini punya rumah tingkat 2 bahkan 3. Ga takut sm gempa? Maklum, d Bengkulu seeing bgt gempa
+Oh ternyata, disini mereka adanya banjir"
+576,,"Wajah baru Jakarta? Apaan, ini mah flashback ke masa lalu Jakarta kalo dimana mana banjir mah wkwkw"
+577,,"6 tahun berangkat dan pulang kerja gak pernah ngelewatin banjir tinggi tapi hari ini mesti terjang banjir hampir sepaha! This really gets on my nerve! Anies ini gak pengen mundur apa? Seriously, if you still defend him at this state you really have to get your head checked! 😡"
+578,,"Kalo posisi begini dengan keadaan jkt banjir, kalo ada yg hamil salah siapa dong? https://t.co/RqVsltSKE1"
+579,,Ujan terus dari semalem huahaha.. Banjir lagi kah? #Banjir2020
+580,,"Maaf Bos, bukannya gak mau menerjang banjir. Cuma belum siap menafkahi anak² aja kalau ikut nyebur banjir dengan lawan jenis."
+581,,Jaga kesehatan dan selalu sabar yg namanya sama #BanjirJakarta2020 #banjir
+582,,"@DjanChoek @ApriliaLin Banjir terjadi hanya pada hari libur. 
+Hari ini banjir, belum ada pergub banjir=cuti bersama?"
+583,,"Gak cuti bersama, min?  Banjir kan biasanya hari libur? https://t.co/7XEzEM67YK"
+584,,@KatolikG @sopian333351 Dapet berkat bilang banjir berkah
+585,,"Om kan kasih kerja itu seperti admin sosmed, liat banjir trus upload haha https://t.co/IDXbTWuL3T"
+586,,"Ini kondisi #banjir depan rumah, di jalan raya pasar minggu jam 5.30 pagi https://t.co/teugp8QvOd"
+587,,Banjir trs meeting dipostpone. Yuk selimutan yuk
+588,,#banjir 😁😁 https://t.co/clPRmGRHuF
+589,,"Hari ini banjir, hari ini hari kerja. Hikmah apa yang mau diambil kalo banjirnya di hari kerja ? Mau sampe kapan banjir dipandang dari satu sudut pandang. Tolonglah. https://t.co/1aAQbPlmAE"
+590,,Banjir menyerang sklh gw...🏊#banjir #BanjirJakarta2020 https://t.co/pVbuSugpk3
+591,,"Demi pendidikan banjirpun sa tempuh.
+#banjir https://t.co/aMREQrPK3G"
+592,,"06.51 Pagi Hari (25022020) - Kondisi sisa rintik hujan, semoga pompa aktif dan #banjir cepat surut. Lokasi Jl. pondok jaya IX, Pela Mampang, Mampang Prapatan, Jakarta Selatan, antara 20 s.d 30 cm. #BanjirJakarta cc : #FYI  @TMCPoldaMetro https://t.co/gllseEakWh"
+593,,Banjir ya?
+594,,kalo banjir gede gini kan males bet ngejelasinnya sma bos udah tau bos cinaa..  kdang ngerti kadang kaga uhuhu
+595,,"Malam pak goodbener @aniesbaswedan, sekarang setiap kali hujan saya ngga bisa tidur, rumah saya bulan ini rekor 4x banjir sebetis masuk rumah (plus sepinggang pas tahun baru). Unprecedented, hebat sekali pak goodbener prestasinya, semoga dapat banyak pahala #BanjirJakarta2020"
+596,,"@infoBMKG Tolong modify cuaca, banjir sama dengan 1 January 2020"
+597,,@aniesbaswedan fyi banjir lagi 5X #banjir #BanjirJakarta . Hebat hebaaaaaattttt https://t.co/GlnTbVSJRI
+598,,@AgamKupie Banjir lagi @aniesbaswedan wowwww 5X WOWWW
+599,,"@BPBDJakarta Pak, kali mampang tidak ada sensor padahal banjir akhir2 ini sering dan sangat parah. Tidak ada effort dari pemerintah untuk upgrade kali mampang? Kenapa perbaikan masa Ahok stop?"
+600,,Bos @aniesbaswedan banjir bos. Bangun bos
+601,,"Banjir di Pondok Jaya 10, Mampang Prapatan Jaksel. Tinggi air sudah selutut orang dewasa @TMCPoldaMetro https://t.co/bqReESsa7U"
+602,,Akhir2 ini kaga bisa tidur tenang kalo ujan kepikiran banjir mulu etdah
+603,,banjir muluuu
+604,,"Baru per Januari pindah Jkt, per 1 feb stay d kosan, blm ada sebulan eeh kena banjir. Di Bali aman2 ajaa sejauh ini. Banjir berkat semoga ya, dan smga pertama dan terakhir kali gw alamin banjir.
+Kesel bgt gue sama si titik titik titik ehehe :"")
+Bersyukur msh aman selamat badan gw"
+605,,"@hanums Kahans stay daerah mana? Sama kak, aku jg kena banjir di utkay :(
+jam 2 subuh ktnya airnya masuk.
+untung ak pas nginep d tempat ka nina dan br liat kmrn sore kosanku yaaampunn sedihh bgt gue. Baru pindah jkt Januari lsg kena banjir :"")
+semangat kak!"
+606,,"Barang2 gw rusak saat banjir ada TV, kompor listrik, kipas, buku tabungan, deposito, pasport yg baru gw perpanjang di Bali kmrn. 
+Kosan gw br ditempatin per 1 Feb kmrn di tgh2 itu gw dinas 2 mgu ke luar kota. Jadi mgkn hny sktr 2 mgu kurang gw di kosan itu :"")
+Bersyukur ajaah"
+607,,dan ada brg2 lainnya yg basah kena banjir. Sedih bgt gue wkwk
+608,,"Emang harus ngalamin sendiri dulu biar ngerti rasanya.
+
+Harus kehilangan kakaa saat tsunami baru bener2 paham arti kehilangan/dukacita yg sedalam2nya.
+
+Harus rasain banjir br bener2 bs ngerti rasanya kehilangan brg2 yg lo sukai/syg bgt2.
+
+Dan org lain blm tentu bs paham itu."
+609,,Programnya ga jelas buat ngatasin banjir https://t.co/1x4KBK5dPQ
+610,,"@ilhamadityam banjir ga ham, gw liat berita bekasi juga ada yg kena banjir ya."
+611,,"Selamat Malam, mudah2an besok gak Banjir ya 🌧 #WajahBaruJakarta #BesokSenin"
+612,,"@RofiUddarojat hahaha atau attitude org lain. Woi lari ga jadi, kapan neh? eh tp klo td lari jatuhnya renang ya. kan banjir wkwwk"
+613,,Pasti tepar bgt org2 yg kena banjir dari jam 2-3 pagi.
+614,,"Jangan lupa tengokin rscm
+
+https://t.co/2gJYiiQIqW https://t.co/qtGN961S2p"
+615,,"@kangdede78 Tengoklah ke dalam RSCM 
+https://t.co/2gJYiiQIqW"
+616,,"Cuddle aja yuk....
+Gg jadi CFD-an nya,banjir"
+617,,@aniesbaswedan #BanjirJakarta #banjir https://t.co/JyzQvJVmwg
+618,,@aniesbaswedan Aku sudah on the brink of maki2 bapak #banjir
+619,,Banjir woy banjir https://t.co/kXOsHmJoGv
+620,,Jauh jauh ke Jakarta dikasih banjir 🤣
+621,,Banjir semua jalan
+622,,@AzfaniaF Banjir nya diatas maksudnya?
+623,,"@russelsheila_ Makanya mau ga mau disini , enaknya ya ga banjir trus klo mau pergi naik busway or kereta aksesnya gampang"
+624,,"Alert, siyap2 banjir lg ya 😭🙏 https://t.co/9wdNqc0kqh"
+625,,"Disini hujan deres banget udah setengah jam lebih,,semoga ga banjir di daerah2 yang emang langganan banjir 😇"
+626,,@Aryprasetyo85 @pejuangind01 @My_LoveNebe @cintada17 Muke gile!  Bukannya banjir urusin!
+627,,"Kali pesanggrahan sdh selevel jalan. Bnk berdoa agar hujan reda dan gak ada limpahan air dari hulu 
+#banjir #BanjirJakarta #AniesTenggelamkanDKI https://t.co/d9PZVXEj5R"
+628,,ga bisa leewat #banjir https://t.co/Q7DkXguhRc
+629,,#banjir @TMCPoldaMetro @RadioElshinta https://t.co/dlgpgoHCzf
+630,,+62 banjir sentuy.. https://t.co/PZUvzorDUz
+631,,"BANJIR
+Anies mana TOA mu
+#AniesTenggelamkanDKI 
+#wargaDKItenggelamkkanAnies"
+632,,"@Airin_NZ @aniesbaswedan Kalau setiap warga diWAJIBkan bisa berenang untuk menghadapi banjir nanti kalau banyak wanita HAMIL diluar nikah, siapa yang harus tanggung jawab"
+633,,Banjir dikampus pulomas membuat uas di cancel dan bsk diliburkan dg kata lain ujian osce diundur :)
+634,,@Nisaoioi_ @salsabilromanda Masih banjir kah cipete?
+635,,"Bayangin kota lagi kebanjiran terus airnya dibuang ke laut, tiba-tiba datang air rob dari laut. Warga ngungsi kedataran tinggi, lalu terjadi longsor / banjir lahar dingin.
+
+......"
+636,,Jakarta yang banjir aku yang repot
+637,,"Diskusinya online ajah, jalanan dan stasiun banjir 😅😅😅 https://t.co/Slchi5sEDZ"
+638,,"Untuk wanita di daerah yg terkena banjir hati-hati, jangan sampe kena air di daerah kewanitaannya, nanti bisa hamil. #humorbanjir 🤣🤣🤣
+
+#PecatSitiHikmawatty"
+639,,@elidyap @hrdbacot Dipikir saya ngga takut hamil kali mas. Mana kemarin ada berita hamil dikolam renang. Inu malah banjir jadi makin inspekture dong saya
+640,,"Daerah saya mah nggak banjir, tapi mau berangkat kondangan ke mantan rasanya berat bedh."
+641,,Banjir Jakarta ini kayak errornya indihome di rumah gue. 2 bulan sampe 4 kali 😌
+642,,Lagi banjir👍🏻 https://t.co/AVJuEWbvas
+643,,#Banjir https://t.co/PwyrrBvien
+644,,Gimana rumahmu? Banjir?
+645,,"Kena banjir sih engga, tapi hujan deras, akses kena banjir, dan macet lah yang bikin susah ngantor."
+646,,"@nailafzv Banjir mah gapapa, kan yang penting Formula E terkenal Dunia Akhirat hehehe."
+647,,Masih keadaan ngegoler diatas kasur... Jalanan ke kantor beberapa ditutup.... Imperium katanya basement udah banjir.... Dan aku masih berharap .... Huhuhuhuuu https://t.co/tVPw1xHG2c
+648,,"Boro-boro ketemu gage, udah kena banjir duluan kendaraannya. https://t.co/YWrcomt8vj"
+649,,"Pak @aniesbaswedan, maap nih bukan saya hater atau mau ngebully, tapi kalo daerah yg seumur hidup ngga kena banjir lalu sekarang dalam 2 bulan udah kena banjir 3 kali, berarti ada yg salah penanganan nih?
+
+Ngga perlu main kata2 lagi, pak. Kasih solusi nyata langsung lah."
+650,,Banjir guys. Jangan berenang. Nanti hamil 😀
+651,,@TMCPoldaMetro Banjir lagiii 🤦‍♀️😫
+652,,@hazeluixy Klsnya dilantai 3 mana mungkin kena banjir :(((
+653,,"Bangun tidur, beritanya semua ttg banjir.."
+654,,"Ngomongin macet &amp; banjir Jakarta emang ga bakal kelar, paling bener pindah kota emang..
+Pindah ke mana ya enaknya?"
+655,,Ciledug tangerang banjir nih pasti salah anies nih hahhahahhaha otak dangkal
+656,,@uusbiasaaja Bang tempat lu banjir ngga? Habis ini bakal ada ava putih yg reply dibawah
+657,,"Coba deh lo ngetweet selipin kata : banjir 
+
+ pasti ada yang reply."
+658,,"Yang di pamulang-ciputat stay safe ya, tadi lewat depan ramayana ciputat udah banjir seleher
+
+Seleher khoocheng"
+659,,@ILHAM_rafiqi_A Langitnya biru gabakal banjir
+660,,Sudah dipastikan besok banjir (kembali)
+661,,Pantesan banjir ternyata turun dengan derasnya ketika orang lagi terlelap bobo toh :) https://t.co/5ppKuf9kCH
+662,,@thedufresne Jelanya tanah harus kering dan tidak boleh lembab untuk mencegah banjir. 👍😂
+663,,"Kalaupun dibuat sumur resapan,tapi tanahnya lembab yaa... sama saja banjir juga.🙃🤣 https://t.co/VWgjU4pbM0"
+664,,Akibat banjir jakarta yg nggak selesai-selesai #WajahBaruJakarta #WajahBanjirJakarta #4niesGabenerBodong https://t.co/zZpdpVG2ma https://t.co/k9hl5VR02L
+665,,BANJIR ITU HAMILISASI. kolam renang cuma sekolam. banjir sepropinsi. https://t.co/V7yB5PwCUw
+666,,Kolam genangan banjir Jakarta 23 Februari yak? https://t.co/RplqMoNcrr
+667,,Jakarta banjir lagi di beberapa titik yaaa..
+668,,"Sampe monas aja #banjir tapi Cirendeu terutama jl. SD Inpres masih baik2 saja aku merasa sedikit bersyukur meski ujian macet tak pernah berhenti
+
+Happy weekend gals"
+669,,"Kita tahu, Sungai Citarum merupakan sungai yang melintasi Bandung, Bandung Barat, Purwakarta, Karawang, Bekasi dan berujung di Jakarta. Selain sering menjadi penyebab banjir, Sungai Citarum juga tercemar limbah karena kerapkali menjadi pembuangan limbah industri dan rumah tangga. https://t.co/SmfkvpgFLC"
+670,,"Ngga kebayang saat kejadian, mungkin ilustrasinya seperti ini ketika banjir datang tanpa aba-aba #SMP1Turi https://t.co/hXEtnmGvL9 https://t.co/xpeXo1zghW"
+671,,"@tinggaldikastil Jangan, Jakarta sering banjir. Nanti nyetrum."
+672,,jam segini masih hujan deras bikin khawatir banjir maneh.
+673,,"Mimpi #banjir eternyata air netes dari atap. Kok bisa ya, hujan deras nih pasti. Huft. https://t.co/OmX7L3Gkgd"
+674,,"@PT_Transjakarta min, dari warung jati ke jcc naik tj ada kendala banjir ga?"
+675,,"Liat  tuh, banjir sampah dmn mn https://t.co/x6A4yXlBst"
+676,,"Saya jg bingung knp ya sambil bawa uler. Ulang2 video kirain ada laporan hati2 ktemu ular di lokasi banjir, blablabla... eh ga ada. 😄😄 https://t.co/JFmbruUcwA"
+677,,Untung loker ga banjir. Kalo banjir sepatu gueeee 😭😔
+678,,Banjir banjir datang lagi~
+679,,"Dimana mana banjir, yg kering gua rasa dompet gua doang😑"
+680,,gw sama sekali ngak berharap banjir..kecuali di istana..knp ngak tenggelam saja.. 🤭🤭🤭
+681,,"@Safringo Ya emang, diedit biar ala2 banjir di jepang katanya airnya ga coklat :("
+682,,"Pagi-pagi dirumah ribut ada banjjr, yang lain sibuk mindahin mobil ke tempat yang lebih tinggi. Aku sibuk meneruskan mimpi, biarkan saja mobil mandi genangan banjir @aniesbaswedan  emang top bodo amatnya #AniesTenggelamkanDKI 
+#AzabGabenerBodong 
+#BanjirJakarta2020 
+#Kick4nies"
+683,,"Ini bahaya, konflik antar warga karena Banjir. #Banjir #Banjir2020 https://t.co/PFCLvtLdVA"
+684,,@Fido_Dildo Sby jg banjir kagak ada yg marah? *tambahin
+685,,"Tidak ada banjir di Jakarta, kata fans berat mAnies"
+686,,"buka twitter, banjir
+buka facebook, banjir
+buka instagram, banjir
+tp kok giliran buka dompet, kering ya😭"
+687,,"Kemarin berkilah silat lidah, klaim syukur banjirnya di hari libur berkat doa. Sekarang langsung dibayar kontan banjir pas hari kerja
+
+#GustiMbotenSare #AniesBanjir"
+688,,"Akhirnya hanya diam tidak ada tindakan mencari solusi mencegah banjir...banjir hari libur ?! ,sekarang hari Selasa  mungkin dia sendiri yang libur ."
+689,,"@kompascom @weddie_s Kerugian akibat banjir Jakarta ratusan milyar  ,menyengsarakan warganya ..."
+690,,Jakarta Darurat Banjir! Stay safe kawan!
+691,,"Banjir kota nya, Susah payah warganya hebat gbener https://t.co/potHwLNVxX"
+692,,"@petabencana banjir di mata ni,  gmn dong hmm"
+693,,@petabencana @ayyeol28 #banjir
+694,,"hanya bisa berdoa, ketemukanlah sama abang gojek baik yg mau menerjang banjir. agar saya bisa kerjaa~ aminn"
+695,,@detikcom woiii masih jauh woiii...urusin DKI noh banjir seharian..beresin dlu yg skrg gausah ngimpi2 pilpres2 dlu
+696,,banjir banjir banjir mantap jiwa
+697,,"Dan terjadi lagi, banjir jl. HR Rasuna Said kuningan depan bpjs yg baru. @infojakarta @TMCPoldaMetro https://t.co/UAwiYuLN35"
+698,,"Musim penghujan tahun depan, barangkali saya tidak akan terlalu sering merancang rencana perjalanan. Percuma berencana, jika banjir sewaktu-waktu bikin berantakan."
+699,,rasuna said banjir ga sih??? bisa lewat kan ya
+700,,"Ini hari selasa pak, banjir 😐 https://t.co/Y49Q4dr0dO"
+701,,@WulanMega Yang jam 7 gagal menembus hujan dan banjir 😭
+702,,@aniesbaswedan jkt banjir lagi bikin gebrakan cari solusi kerahkan semua bawahannya jng cuman pantau doang
+703,,"Cape ih beresin rumah, banjir mulu udah kaya rutinitas :("
+704,,"Hujan masih deras saat saya bangun tadi ,...entah bagaimana nasib warga lain yang masih tinggal di bantaran sungai ....semoga tidak banjir ..."
+705,,"Malam tgl 24 Februari hujan deras...sudah 15menit ,semoga hujan cepat berhenti wanti wanti  banjir lagi..."
+706,,"Jakarta emg suka bikin warganya tidur ga tenang, jam segini mulai ujan, jam 3 banjir"
+707,,"banjir di jkt ga pilih2 ya, kalo diluar jkt biasanya yg kena banjir rumah2 sederhana"
+708,,"nahh kan bener tambah deres, bentar lagi jktinfo update foto2 banjir"
+709,,"Semoga yg bertugas ditengah2 banjir ini tetap sehat dan kuat. G semua org tau ditengah bertugas ada keluarga yg ditinggalkan, rumah yg juga kebanjiran, tapi masih dapat nyinyiran dr orang2."
+710,,Ini selasa banjir 🤣 https://t.co/B4mNxqZ82b
+711,,Buka Twitter lihat banjir gak taunya depan rumah kebanjiran juga hehe https://t.co/Y26QPdDe0l
+712,,semoga yang terkena banjir lekas surut dan aman
+713,5,"Jakarta mulai Siaga 1 banjir, dari semalem ujan deres :’)"
+714,5,masya Allah bangun pergi tidur ujan bangun tidur ujan dan banjir. stay safe teman2 yg rumahnya sampe masuk... luvv 🥺
+715,5,Ya Allah hujan nggak brenti2 #banjir
+716,,"Semoga hujan segera redah,banjir cepat surut,yang beraktivitas hari ini tak ada kendala. Stay safe Jakartans.."
+717,,"Banjir lagi dimana mana
+for the first time di 2020 masih bulan ke 2 tapi udah berapa kali banjir"
+718,,"@jr_kw19 Gua rasa pagi ini nih org pura2 amnesia
+krna skrg banjir di selasa
+Kata dia senin selasa rabu g banjir
+😂😂😂
+sebegitunya pny akal asal jeplak doang tuh mulut"
+719,,Dengan hujan yang begini deras dan lama... Daerah mana saja yang akan banjir di Jakarta?
+720,,Aku + hujan + indomie + teh anget = banjir https://t.co/e27nQu1xeD
+721,2,@AmirahFaradilla Banjir kek kali kali wkekek
+722,4,@D4tuk_T4mburin @yunartowijaya Hhhhhh....sdh tau goblok knp ditanggapin bang ...jakartakan emang daerah banjir dr dulunya hanya org2 dungu yg gak paham
+723,4,Sejarahnya Jakarta itu Banjir. Ud baca sejarah Jakarta belom? Emang pasti banjir. Masa nyalahin gub @aniesbaswedan ? Mau s3 jadi Gub jg bakal banjir dan dihujat. Inga inga
+724,4,Banjir kau.komplein..maling duit jiwasraya dll asiong2..kau sdh protes jokowi...? https://t.co/7f6IJvLHmV
+725,,"Curah hujan sedang tinggi, banjir, yg salah gubernurnya. Kalo di sumatera sering gempa, mungkin yg salah juga gubernurnya ya."
+726,4,"Shame on you, hasil jualan agama ya gini.. Banjir dah kek minum obat, gabener baperan NOL BESAR #WajahBaruJakarta https://t.co/lHEiJIu5RJ"
+727,,Banjir maneh kakak...
+728,4,"@aniesbaswedan @DKIJakarta Yang banjir ya banjir ....trusss karna dana penanggulangan banjir dipotong  ,yang mo balapan ya bahagia karena dananya 1,6 T , pada hal yang mo balapan orang bule (kafir)."
+729,3,@DTanjung15 Benar mbak semoga tidak banjir kasihan yang kebanjiran ...setiap kali hujan mereka sewa rumah atau tidur dipinggir jalan dengan perut keroncongan....menahan lapar...
+730,3,@derrysekianlama Ngeri banjir.
+731,,@Wongjaw99685558 No pic banjir keringat hoax
+732,,"@kompascom Dulu 1996 awal kampung w kena banjir, lanjut 2007, 2013, 2018 jadi ajang 5 taon sekali, 2018 ke 2019, jadi setaon sekali, januari 2020 ke februari 2020 jadi ajang sebulan sekali, bahkan februari ini udah 2x, mantap sih signifikan https://t.co/jCPYNKgsxA"
+733,,"min apakah hari ini rawajati, kalibata akan mati lampu karna dampak banjir?🙂 @pln_123"
+734,,Aiptu Dedi. S Binamas Ds. Ciakar sambang/Dds Control terdampak banjir dengan Bpk. Kusnandar ketua RT setempat beserta warga perum duta Asri. Utk yg terdampak banjir 12 rumah sedalam 20-30 Cm di perum Duta Asri  kamp. Cukqnggalih Rt. 03/01 desa. Ciakar. Selasa (25/02/2020). https://t.co/005XXhROiC
+735,,Iptu. Muslim Sihotang. SH (Kanit Binmas) bersama Aiptu Gunaedi memantau warga yang terkena banjir dengan ketinggian air -+ 20 cm di Perumahan Duta Asri Kp.Cuanng Galih Esa Cakar Kec.Panongam Tangerang. Selasa (25/02/2020). https://t.co/9xFifUzMMf
+736,,"Aiptu Maswan Bhabinkamtibmas Desa Serdang Kulon Pantau lokasi banjir wilayah Ds Serdang kulon Ketinggian air 40 cm di Cluster Mutiara Curug 4 Rt. 26/01 Ds Serdang kulon Blok E, imbas dari meluapnya air kali Cirarab. Selasa (25/02/2020). https://t.co/IBJ2oyjA1C"
+737,,Aiptu Dedi. S Binamas Ds. Ciakar Pantau lokasi banjir wilayah Perum Duta Asri  Kp. Cukanggalih Rt. 03/01 Ds. Ciakar kec. Panongan ketinggian air mulai surut. Selasa (25/02/2020). https://t.co/9MQRXytVLT
+738,,Gimana orang orang mau belanja di pasar tradisional kalau pasarnya aja banjir terus.kalah perawatannya sama mall
+739,,"Waktunya menebar postingan
+Karena rejeki itu di cari
+Bukan di nanti
+Semoga pedagang online banjir orderan 😍😍
+Aamiin Aamiin Ya Allah Ya Rabbal Alamiin 🤲 --------------------------------------------
+Open… https://t.co/tOG6GcOiOz"
+740,,"Banjir tidak menyurutkan semangat indrea untuk tetap masuk sekolah 
+Semangat mencari ilmu 
+Semangat belajar 
+
+#indrea 
+#indreasalsabilaazura 
+#ptsd 
+#jatipadangpasarminggu 
+#jatipadang 
+#jatipadang3… https://t.co/uv7WZunc2E"
+741,,"Tahun 2020, 2 bln ini sudah 7 X Jakarta banjir, korban harta bahkan nyawa, transportasi LUMPUH, EKONOMI macet
+#AniesTakBecus
+@asepapit @kangdin223 @arjuno_ireng01 @rich146754 @kunenmanai @SoffiAgus @hemaviton99 @newagestein"
+742,,"TANDA2 ZAMAN ! Jakarta Banjir Parah, Pohon Besar Tumbang di Depan Rumah Dinas Anies Di Menteng.
+https://t.co/5KdcpSLL2W
+@LisdiyantoR @veraagustian_ @Bubut871 @Soeyanto19 @YudiKs14 @marsonom97 @ichigotalks @LukmanHarijanto"
+743,,"Pagi ini pohon roboh di depan rumah dinas Gubernur DKI Jakarta Anies Baswedan Jalan Taman Suropati, Jakarta, Selasa (25/2).
+https://t.co/5KdcpSLL2W
+@abdul_charim @sulistiawan_rd @enny_endah @Oetaryo7 @Usep210 @kangdin223 @MyBagaspati @BHD_8 @BherlambangA"
+744,,"Jakarta Banjir Lagi, Rumah Mewah 6 Artis TINA TOON dkk. Ini Juga Jadi Korban
+
+https://t.co/qvvGb4Wi17
+@amandagempita @AntoniusKamagi @Boemi_Pertiwi12 @periani @fatmawati2014 @semiaji_w @Berty69968038"
+745,,"BANJIR JAKARTA jadi sorotan media asing!
+Straits Times dan Channel News Asia soroti bencana banjir Jakarta: ""Hujan deras Jakarta lumpuh, jalan2 berubah berwarna cokelat. Media Amerika Serikat, Bloomberg
+https://t.co/loDwHrS1An
+@Gregorius841 @wiriantowidjaya @ellys_kerhi @Bnie18"
+746,,"DPRD DKI kritik pedas Gubernur DKI Anies soal pencegahan banjir Jakarta. Banjir koq 4 kali terjadi dalam dua bulan terakhir.
+""Kalau banjir sekali itu musibah, tapi kalau berkali-kali itu keterlaluan,
+https://t.co/P1t9Cnb6L8
+@Usep210 @marsonom97 @ichigotalks @BHD_8 @chirp__john"
+747,,"BANJIR JAKARTA jadi sorotan media asing!
+Straits Times dan Channel News Asia soroti bencana banjir Jakarta: ""Hujan deras Jakarta lumpuh, jalan2 berubah berwarna cokelat. STAR &amp; Media Amrik, Bloomberg
+https://t.co/loDwHrS1An
+@Aadec @Berty69968038
+@Ze_sukma @DRadjikin @semiaji_w"
+748,,"Anies ditanya oleh wartawan terkait banjir yg terus terjadi di wilayah Jakarta, mengatakan banjir terjadi karena debit hujan yang tinggi.
+""Kalau boleh izinkan saya bekerja sehingga bisa menuntaskan (banjir).
+https://t.co/wAjLpDgq6W
+@gundala222 @Bubut871 @joy_rantau @YCH7168"
+749,,"Gara -Gara Banjir Warga Ngamuk, Demo Anarkis !
+Harap Hindari Jakarta Garden City..
+Karena ada Demo Warga Kebanjiran yang Sudah Mulai Anarkis...
+Cc @DKIJakarta @aniesbaswedan https://t.co/H7b9XtsjVG
+@LisdiyantoR @Oetaryo7 @Fathir97 @Soeyanto19 @BPribas @Berty69968038"
+750,,"WARGA BAHAGIA ! Warga menggeruduk Mal AEON JGC Cakung, Jakarta Timur, siang ini. Massa menuding mal tersebut sebagai penyebab banjir.
+https://t.co/Bi41zhta1Y
+@aniesbaswedan @ErindaSofi @LukmanHarijanto @wiriantowidjaya @Jokoumb64504158 @Bams_1eng @inong911"
+751,,"KA Anjlok krn banjir Di Kota, ancorr Wan TOA
+@LukmanHarijanto @cakrabirawa86 @angelmaximilan @TaliUdeng @Genesis7173 https://t.co/3LAjY5OtZu"
+752,,males keluar ngeri banjir
+753,,@fjr_wicaksono Jadi banjir deh..
+754,,"Jembatan cinta pinggir kosan. Sumber kebahagiaan anak anak gang senggol, kalo banjir renang dah mereka :"" https://t.co/kTSbczST67"
+755,,Inii gaji hanyut kebawa banjir apa gimana udah jam segini blm ada sms cinta masuk 😌
+756,,"Kerusuhan di cakung , cara pengalihan masalah sebetul nya ,,, masalah banjir di jakarta secara keseluruhan @aniesbaswedan  @dinaslhdki gak mau ngaku gak becus"
+757,,"Colorful jakarta
+#banjir https://t.co/mp5n9MsJTT"
+758,,Ayookkk bikin pansus banjir minta pertanggungjawaban gabener #AniesBaswedanJuaraBOHONG #AzabGabenerBodong #AniesTenggelamkanDKI https://t.co/D6pdr5q2Xh
+759,,Stay safe buat semua temen-temen yang kena banjir. Tetap semangat 🤘 https://t.co/CtEup8UxAX
+760,,BLESSING IN DISGUISE dalam episode: salemba banjir https://t.co/rvYFU96xJV
+761,4,Baru bulan ke-2 di 2020 dan Jakarta udah berapa kali banjir 🤦🤦
+762,,Banjir adalah sebutan untuk ketua rukun warga di bali.
+763,,"@debbiewibowo @aniesbaswedan @RadioElshinta @BBCIndonesia @CNNIndonesia Ya ampun. Rumah milliaran, hilang keindahannya gegara banjir."
+764,,"Udah bangun kesiangan. Paksa berangkat gawe. Jadwal kereta ancur parah. Nyampe kalibata, gojek gaada yg mau ambil. Sekalinya dapet taunya banjir. Dan pas paksain lewat alternatif, kantor libur grgr banjir. Taiiiiii 😩"
+765,,"WAN TOA : Pemprov DKI Focus tangani evakuasi korban Banjir, TIDAK jawab soal ""Cara pencegahan banjir""
+ @Bubut871 @myatharva https://t.co/EJ4uwsmzDO
+@becaknott1 @noe_santara @Winardhi__ @Jokoumb64504158 @regina999999 @Berty69968038"
+766,,"BARU  KALI INI ! Jakarta Banjir, Underpass Senen dan Fly over Kemayoran Terendam https://t.co/i1OaYxu95X
+@Aslipriok1973 @enny_endah @77bayoe @YudiKs14 @MyBagaspati 
+@Ze_sukma @HantoSuwono @blacpanthe @SoffiAgus @abdul_charim"
+767,,"JANTUNG JAKARTA KELELEP, KRISIS ! 
+Selasa, 25 Feb 2020 08:00 WIB. MONAS, Jalan Medan Merdeka Timur Tergenang Jalan MH Thamrin di depan Sarinah banjir.
+https://t.co/uCVnDzCzvt
+@AminSiregar75 @Salim_Semm @SalamBudi1 @yogo_prst @Raden_Atmadja @LukmanHarijanto @mukabahagia @asnug_id"
+768,,"Banjir di Monas Jakarta Pusat. 
+Air menggenangi Jalan Medan Merdeka Timur arah Monas Timur, di depan gedung Pertamina.
+Jalan Medan Merdeka Timur tak bisa dilintasi.
+https://t.co/Dibf9xEbZL
+@PJayakarsa @cello_bams @Bams_1eng @LukmanHarijanto @bahdirdja @Genesis7173 @ediedot108"
+769,,"JAKARTA BANJIR DISOROT INTERNASIONAL !! WAN TOA PERLU Segera Di Evaluasi! DPRD DKI JANGAN Tidorrr @dprddki @dprddkijakarta https://t.co/798YHjsRdT
+@semiaji_w @Gunadi84380182 @bin_martakusuma @alex_hunter146 @lodysiegers @steventblack99 @ediedot108 @edo_macho"
+770,,Banjir Makin Parah ! Ibukota harus Segera pindah ke Kaltim https://t.co/6B9cawEarI
+771,,"""JANGAN CUMA GAYA"" !
+DPRD DKI Akhirnya Sepakat Bentuk Pansus DPRD DKI, panitia khusus (pansus) banjir, guna mengawasi kinerja Pemprov DKI soal penanggulangan banjir.
+https://t.co/R6QgviE9TS
+@TheendTo @gundala222 @jenk_kelinn @LisdiyantoR @77bayoe @ichigotalks @marsonom97 @YCH7168"
+772,,"Setelah RSCM, sekarang RS Husada Jl. P Jayakarta banjir. Gak pernah kejadian sebelumnya. Baru pagi ini.  @aniesbaswedan https://t.co/6t790x0bJ7
+@asnug_id @enny_endah @LisdiyantoR @marsonom97 @PJayakarsa @77bayoe"
+773,,"JAKARTA LUMPUH ! Jalan MH Thamrin, Jakarta kelelep !
+Sebanyak 326 gardu listrik PLN tidak dioperasikan Di Pondok Kopi, Menteng, Cawang, Kemang, Cempaka Putih, demi keselamatan. (25/2/2020).
+@asnug_id @MyBagaspati @LisdiyantoR @bahdirdja @gundala222 @BHD_8
+https://t.co/uCVnDzCzvt"
+774,,Banjir Jakarta Makin Parah ! Ibukota harus Segera pindah ke Kaltim https://t.co/xDsPdJBev9
+775,,"TOA, TOA, Selasa pagi Stasiun KA Sudirman banjir, KA STOP, Jl Cikini Raya, Menteng KELELEP, kenderaan tdk Bisa lewat !
+@marsonom97 @Oetaryo7 @MyBagaspati @LukmanHarijanto @Aslipriok1973 @very_antony @Gregorius841 @JohnIrwan4 @PJayakarsa https://t.co/2AkPNGW78F"
+776,,"Makin Ngeri, Jakarta Banjir Makin Parah ! Ibukota harus Segera pindah ke Kaltim @DjanChoek @Dumax @FachryAditya14 https://t.co/kqEdUtfv12"
+777,,"Selasa, 25 Feb 2020 08:00 WIB. MONAS, Jalan Medan Merdeka Timur Tergenang Jalan MH Thamrin di depan Sarinah banjir.
+https://t.co/uCVnDzCzvt
+@BossToukeeIsa @aku_bukan_ane @Bubut871 @veraagustian_ @enny_endah @77bayoe @mpok__minah @bujrad69"
+778,,"Kampus ASMI 
+jln Perintis Kemerdekaan, P Gadung,  pagi ini kelelep
+#banjir 
+#4niesTenggelamkanDKI https://t.co/LPh8OoxlHn
+@Aslipriok1973 @NatasyaRudy @LukmanHarijanto @Bams_1eng @valencia_amara @ichigotalks @Raden_Atmadja https://t.co/MwiWlQDOkt"
+779,,"Air genangan warnanya TIDAK Biru !! Selasa pagi, Banjir merendam bundaran Patung Kuda Arjuna Wijaya, saat kawasan itu terendam banjir, genangan air berwarna cokelat.
+https://t.co/voZYV7d8Pn
+@enny_endah @periani @abdul_charim @77bayoe @joy_rantau @JohnIrwan4 @PJayakarsa @bahdirdja"
+780,,"TOA, TOA, Selasa pagi Stasiun KA Sudirman banjir, KA STOP, Jl Cikini Raya, Menteng KELELEP, kenderaan tdk Bisa lewat !
+ https://t.co/2AkPNGW78F
+@aguskuswanto151 @HantoSuwono @SoffiAgus @YCH7168 @sirajapadoha @arjuno_ireng01 @mukabahagia @bahdirja"
+781,,"Lokasi Langganan demo 212 kelelep ! 
+Bundaran Patung Kuda &amp; Monas tergenang banjir. Hujan masih terus mengguyur kawasan ini, Selasa (25/2/2020) pukul 08.20 WIB pagi.
+https://t.co/eETNLpEzxL
+@yogo_prst @marsonom97 @asnug_id @valencia_amara @LukmanHarijanto @Berty69968038 @BHD_8"
+782,,"Kampus ASMI 
+jln Perintis Kemerdekaan, P Gadung,  pagi ini kelelep
+#banjir 
+#4niesTenggelamkanDKI https://t.co/LPh8OoxlHn
+@Aslipriok1973 @NatasyaRudy @LukmanHarijanto https://t.co/FbRdgCMy6q"
+783,,"@tempodotcom: Dana jumbo Rp 1,6 T yg dikucurkan Pemprov DKI Jakarta untuk Formula E, akan jauh lebih bermanfaat jika dipakai buat mengantisipasi banjir.
+https://t.co/3K83vPJndN https://t.co/DSJVdOjLBF
+@ediedot108 @blacpanthe @abdul_charim @Boemi_Pertiwi12 @mukabahagia"
+784,,"TOA, JAKARTA LUMPUH!  Selasa pagi Stasiun Sudirman KELELEP, operational kereta terhenti, Menteng banjir, Cikini collaps !
+@LisdiyantoR @enny_endah @Bubut871 @YudiKs14 @sirajapadoha @joy_rantau @Bnie18 https://t.co/Npxhi2EPRU https://t.co/Ls1ijqCUKw"
+785,,"JANTUNG JAKARTA KELELEP, KRISIS ! 
+Selasa, 25 Feb 2020 08:00 WIB. MONAS, Jalan Medan Merdeka Timur dan Jalan MH Thamrin depan Sarinah banjir.
+https://t.co/uCVnDzCzvt
+@YCH7168 @Shumartweet1 @ichigotalks @TjahjadiJudono @muhamma87797215 @Gregorius841
+@WidaMahalik @senasurya53"
+786,,"LUMPUH Jakarta banjir. Jalur Transjakarta tergenang, tak melayani penumpang.
+Tiga koridor yang lumpuh jurusan Kalideres-Pasar Baru, jurusan Pinang Ranti - Pluit, serta jurusan Pulogebang-Kampung Melayu
+https://t.co/VgO2prnizu
+@asnug_id @LisdiyantoR @Usep210 @enny_endah @DRadjikin"
+787,,"Kampus ASMI 
+jln Perintis Kemerdekaan, P Gadung,  pagi ini kelelep
+#banjir 
+#4niesTenggelamkanDKI https://t.co/LPh8OoxlHn
+@Aslipriok1973 @NatasyaRudy @LukmanHarijanto @Bams_1eng @valencia_amara @ichigotalks @Raden_Atmadja"
+788,,@ariman_85 Waahh hati hati yaaa... Jalanan pasti licin dan banyak terkena banjir
+789,4,Emang sekarang hari libur ndasmu????? Ini hari selasa goblooosssss!!!! Banjir tuh dimana mana... Pemimpin salah kok masih dibela kayak gini. Gubernur soleh apaaann? Takabur! Sombong! Terkutuklah kemakan omongan sendiri!! 😡😡 #emosileveltinggi #aniesbanjir https://t.co/gzCNZBM4ek
+790,,"Teman2 semua bagaimana di sekitar anda? Yg terkena banjir hati2  ya, semalaman hujan sampe pagi ini...kondisi pagi ini di taman sepat, samping rumah, taman udh mulai ketutup air limpahan sungai yg airnya tinggi &amp; melimpah https://t.co/r8lvWwT64e"
+791,,"(((( BANJIR SELALU HARI LIBUR ))))
+Skrg hari selasa banjir, kira kira omongannya berubah ga? https://t.co/lKIN3gP4v0"
+792,,"Entah pada ga tau atau gmna, tp yg jelas katulampa ke jakarta itu jauh bgt, setelah katulampa msh ada sedikit bogor, cibinong dan depok.. apakah daerah ini bisa jd penyebab banjir?"
+793,,"Jd solusi yg saya berikan buat pak @aniesbaswedan pak @jokowi pak @ridwankamil yaitu adanya normalisasi di jakarta dan buat waduk di depok, karna normalisasi tanpa waduk penahan di depok ya percuma.. cm mindahin banjir aja bkn mengurangi"
+794,,"Katanya bogor ga ujan tp jakarta masih banjir, dan beberapa atau bahkan banyak orang ga sadar klo pintu air di jakarta udh banyak yg siaga 1, dr mana asalnya klo bkn dr bogor?"
+795,4,"@unilubis Banjir kotanya bahagia warganya,Mantul!!!"
+796,,#banjir https://t.co/8Vht3ZNSqg
+797,,Banjir dibawah ini Anies harus dimintai pertanggungjawaban https://t.co/3jHZmYNBSz
+798,,"Banjir di tol Cikampek, Anies  harus bertanggungjawab. https://t.co/xMw53yUTVv"
+799,,@dwicarta Mudah2n dengan hastag banjir jadi surut. Aamiin
+800,,Galau mau ke kantor naik apa karena kemang banjir pasti macet
+801,,Ekonomi lumpuh dampak banjir.
+802,,@ekky____ ude sepaha aje banjir nye
+803,,@noellastrna @Ekosaputra1Doni ini pertama x banjir masuk ke dlm rumah apa ude yg kesekian kalinya? tinggi kah airnye?
+804,,@yeniandri_ banjir dong
+805,,Fokus banjir dulu https://t.co/pcSLTFSDn4
+806,,@eko_kuntadhi Itu duit lbh baik utk kompensasi korban banjir dan perbaikan fasilitas publik pasca banjir
+807,,"@665Hz tolong kabarnya, apakah anda terendam banjir...... :’)"
+808,2,"Asoyyy... skrg banjir kan, di hari selasa kaan, hari kerja kan, ada alasan buat libur kan, varoqaaah..  Qobulll 😆 https://t.co/6yKpZuM9Ft"
+809,,"Pulomas barat, dan pulomas utara airnya naik lagi, mereka kembali kebanjiran, tolong pompanya dinyalahkan pak, ini kali ke-4 banjir lagi sejak januari 2020 @aniesbaswedan @DKIJakarta @DinasSDAJakarta"
+810,,@p_pohon @el_kaezzar @yunartowijaya Ibukota ga akan banjir LG karena ibukotanya mau dipindahin.
+811,,"Guys, stay safe ya. Hindari daerah banjir"
+812,5,"Kantor di Kemang. Jarak kantor-rumah cuma 4 km. Tapi akses jalan ke Kemang ditutup karena banjir. Muter lewat Pejaten, macetnya mungkin sampai habis lebaran 😭"
+813,,B3 Cibis Nine banjir gue salahin anies apa pak imron
+814,,Lu ada denger toa yang bunyi menandakan kampung lu banjir kaga?
+815,,"How to disable jakarta for a while:
+1. Banjir
+2. Blackout
+3. Demo"
+816,5,Lekas air masuk ke tanah..banjir dimana2 😢
+817,,"Sekarang saya juga kerja di Jakarta. Tapi Alhamdulillah engga kena dampak dari #banjir #BanjirDKIJakarta Karena tempat tinggal ada di lantai 3, sedangkan ruangan kerja ada di lantai 2 dan 1."
+818,,Semangat buat yang lagi kejebak #banjir #BanjirDKIJakarta. Semoga cepet surut dan bisa normal kembali.
+819,4,"Guys ini banjir bukan cuma kesalahan pemerintah lho, tapi INI BUKTI NYATA KRISIS IKLIM. PADA MELEK DONG WOEY!"
+820,,#banjir pasar baru @RadioElshinta https://t.co/pvzwxgbSLJ
+821,,"Semoga yang terkena banjir, aman² saja. Yang ada kendala dijalan, diberi jalan alternatif ke tempat tujuan.
+#banjir"
+822,,@petabencana Pasar minggu #banjir
+823,,"Jl. Rawajati Timur depan komplek BIN, tergenang plus antri di perlintasan kereta, mengakibatkan lalin tersendat #banjir https://t.co/79CMhXPkP8"
+824,,What the... road closurenya banyak banget  #banjir https://t.co/YhyyoID4wU
+825,,@RadioElshinta banjir didepan RSU Kramat Jati. Sementara masih bisa dilalui kendaraan R2 dan R4. https://t.co/KvNlOCWhKm
+826,,Mantap betul hampir tiap hari banjir trus hufft https://t.co/cjnkbbmxKZ
+827,,Banjir deuiiiii
+828,,"Info barusan dikabarin (05:46). Kereta saya pagi ini, K118410, tidak bisa ke stasiun Tanah Abang. Karena di stasiun Sudirman katanya ada genangan. @CommuterLine
+hanya sampai stasiun Manggarai. Siap siap ya berangkat kerja lebih awal
+
+#banjir
+
+@CurhatKRL"
+829,,Lanjut lagi hujannya menjelang subuh.. kayaknya banjir dimana2 ini..
+830,,"Dulu banjir siklusnya tahunan, 5 tahunan dsb.. eh sekarang seminggu bisa 2 kali.. masya Allah makin berat cobaan sebagai warga ibukota dan sekitarnya.."
+831,2,libur banjir 😁
+832,4,Dan terjadi lagi 🙄 #banjir https://t.co/J1OMAKwh3e
+833,,@petabencana #banjir
+834,,@vitkasav_ banjir lagi????
+835,3,Saya bukan menyalahkan banjir karena bapak @aniesbaswedan akan tetapi. Lebih baik ada upaya dan penyelesaian nya. Saya ga mau tanah kelahiran saya tenggelam terus 😭
+836,,"Dear gubernur DKI Jakarta @aniesbaswedan. Terimakasih telah bersusah payah membereskan jakarta. Tapi mohon di prioritaskan mengenai banjir, karena makin banyak orang yang terkena dampaknya."
+837,,"Condet Hujan Deres Sederes Deresnya... Walau tanpa petir tapi kalo begini terus bisa Banjir...Jalanan udah tergenang air 😌
+
+Cc @RadioElshinta 
+
+#hujan  #HujanMalamSelasa"
+838,,"Jakarte hujan (lagi) , Jakarte banjir (lagi) warge Jakarte kudu siap - siap menghadapi banjir (lagi) *toa mana toa"
+839,,Jakarta Hujan (lagi) siap - siap warga Jakarta banjir (lagi)
+840,4,"KAMAR BOCOR
+LAPER
+HAPE LOBET
+DUIT KAGAK
+DIKIT LAGI BANJIR
+
+YAH NAMANYA JUGA HIDUP"
+841,,"Banjir kemaren di komplek rumah uwe taken by drone anak blok sebelah, keren juga kalo diliat air milonya banyak https://t.co/SlydEmBJzk"
+842,4,"WAN TOA MANNA ?? Menkes Tinjau RSCM Usai Diterjang Banjir karena Hujan Deras https://t.co/NsWXcB5x0q
+@regina999999 @Lumbalaut1 @BossToukeeIsa @Berty69968038 @fatmawati2014
+@bin_martakusuma @sarkasimo @Bubut871 @Aslipriok1973 @periani"
+843,,"Ketuà DPRD DKI
+Prasetyo Kesal Kritik Pemprov DKI: Hujan Lokal Saja Banjir, Ini Bukan Kiriman!
+Mosok
+Kawasan Menteng, Jakarta tergenang banjir ?? (23/2).
+https://t.co/ahrTbAlPn1
+@durangonian @Aslipriok1973 @LisdiyantoR @LukmanHarijanto @sirajapadoha @Bubut871 @BHD_8 @marsonom97"
+844,4,"WAN TOA MANNA ?? Menkes Tinjau RSCM Usai Diterjang Banjir karena Hujan Deras https://t.co/NsWXcB5x0q
+@amandagempita @LisdiyantoR @LukmanHarijanto @marsonom97 @Bams_1eng @bud1_f1 @f24nk1"
+845,,"Rute TransJakarta Terganggu karena genangan. Belum bisa pastikan kapan layanan akan pulih, yi. Koridor 2 rute Pulogadung Harmoni, Koridor 10 rute Tanjung Priok - PGC2, dan Koridor 12 Tanjung Priok - Pluit.
+https://t.co/pUxTf0JMTl
+@PJayakarsa @boedi_wie @valencia_amara @YudiKs14"
+846,,"Minta Anies Tak ""Tenggelamkan"" Kelapa Gading, Warga Tuntut Dana Banjir Dikembalikan, ini sudah bukan banjir tahunan lagi,
+WARGA geram baru kali ini merasakan banjir datang berkali-kali.
+Warga beli Pompa Dan TOA Sendiri.
+https://t.co/INnTTdpgUu
+@LukmanHarijanto @Bams_1eng @77bayoe"
+847,,"Dinilai tdk Mampu Atasi Banjir!! Rapor Gubernur Anies Anjlok karena tdk mampu atasi persoalan banjir.
+Dan elektabilitas Anies turun menjadi 11,9% dari sebelumnya sebesar 15%.
+https://t.co/nDwdlimITN
+@ichigotalks @JohnIrwan4 @novapermana8 @LisdiyantoR @gundala222 @TheendTo"
+848,,"HARI HARI Warga Jakarta Terendam Banjir !
+Ruas Jalan Kemandoran tergenang air setinggi 40 cm, juga Monas, Ruas Jalan Protokol Medan Merdeka Timur, Gambir, Jakarta Minggu dini hari.
+https://t.co/PEAxiZOJAe
+@positive_values @cello_bams @marsonom97 @ichigotalks @HantoSuwono"
+849,,"Minta Anies Tak ""Tenggelamkan"" Kelapa Gading, Warga Tuntut Dana Banjir Dikembalikan, ini bukan banjir tahunan lagi,
+WARGA geram baru kali ini merasakan banjir datang ber kali2.
+Warga beli Pompa Dan TOA Sendiri.
+https://t.co/INnTTdpgUu @YudiKs14
+@lho_koq @joy_rantau @enny_endah"
+850,,"Banjir Kelapa Gading: Warga Minta Pintu Air Dibuka, Anies Sabar Tunggu Air Laut Surut https://t.co/F85xynl5yC https://t.co/3bVh3Su6NI
+@PJayakarsa @Oetaryo7 @cuanbaksit @MyBagaspati"
+851,,"Banjir RSCM JakartA KELELEP, TOAA GAK Bunyi
+@MyBagaspati @LisdiyantoR @cello_bams @sudrajatasep17 @PJayakarsa @JohnIrwan4 @wrahardian2 https://t.co/PXB7ZGasKg"
+852,,"Gubernur Anies meninjau air di pintu manggarai pasca hujan, Sabtu malam (22/2/2020).
+Menurut Anies, banjir di Ibu Kota Jakarta dapat dihilangkan dgn menunggu permukaan air laut surut. https://t.co/QMugUlIzMw
+@cahangon88 @Gregorius841 @Jokoumb64504158 @wrahardian2 @boedi_wie"
+853,,"Anies: Drainase vertikal, Jika Air Hujan Masuk ke Tanah, Insyaallah Tak Ada Banjir.
+https://t.co/W37q9OGugG
+@cello_bams @marsonom97 @lho_koq @Bubut871 @77bayoe @Oetaryo7 @Berty69968038 @sirajapadoha @ichigotalks"
+854,,"JakartA Banjir Ber Silit2, kawasan Yg TIDAK pernah banjir skrg Kelelep ! 
+Dear Pak @aniesbaswedan #WaterParkJakarta 
+Sejak Bapak menjabat wilayah2 yang tidak pernah banjir, hari ini banjir RSCM, Mona's, DSawit https://t.co/dspByhPTni
+@USutendi @marsonom97 @Bubut871 @YudiKs14"
+855,,"DITANYA SOAL banjir ber silit2, Wan TOA bilang ""Ayo main TIKTOK?
+JakartA tiap Hari Banjir, titik banjir Meroket Tik tok ... TIKTOK ... @aniesbaswedan https://t.co/HSI0QtMiYo
+@enny_endah
+@Jokoumb64504158 @77bayoe @mukabahagia 
+@aku_bukan_ane @mpok__minah"
+856,,"PSI DPRD DKI menilai Gub. Anies sama sekali tidak peduli soal banjir, Anies 2,5 tahun, program antisipasi banjir jalan di tempat. Kem PUPR tidak bisa jalankan normalisasi karena Pemprov DKI tidak mau bebaskan lahan.
+https://t.co/f1QxUb4qR0
+@Bubut871
+@joy_rantau @LisdiyantoR"
+857,,"Langganan Kelelep! Kembali Dilanda Banjir, Warga Bekasi Tuntut Pemerintah Cari Solusi.
+https://t.co/7STeK7vdFp
+@AndipanjaitanP @LaingenLisa @NatasyaRudy @LukmanHarijanto @MyBagaspati"
+858,,"Kawasan Menteng Banjir !! TMC POLDA:
+02:28 #Banjir 20-40 cm di Jl. Surabaya, Jl. Cilacap, dan Jl. Pegangsaan Barat Jakarta Pusat, agar hati2 apabila sedang melintas. @VDrfzi https://t.co/V7R7inNThF
+@enny_endah @yogo_prst @PJayakarsa @tekarok007 @AlhadieLukman @BHD_8 @kangdin223"
+859,,Jalanan masih banjir tp ujannya ga reda2 dari semalem..
+860,,ginini perkara banjir hadeuhhhhhhhh gimana ni kalo mau tacap ngalis wkwkek
+861,,@petabencana #banjir
+862,,"Inget Besok SENIN.!!!!
+
+Malah jakarta Ujan mulu ni dari malam, kalau sampe Pagi masih Hujan besok pasti pada Kena Macet karena Banjir."
+863,,@T0NI361 @geloraco Disana banjir belalang katanyah...
+864,,@JeromePolin Berenang di banjir gitu hamil apa njir..
+865,,"Udah renang hari ini? Hati2 ya jangan lupa pakai pelindung.. 
+Jakarta banjir lg ya karena hujan semalaman dan skrg juga masih hujan. Jadi bisa renang dimana2, ngga ada tuh langit biru spt foto pencitraan gabener itu. Yg terkena banjir, sabar ya"
+866,,"Jakarta banjirnya parah bgt, hati2 buat yg lg di jalan. Baca berita ini membantu kamu mencari jalan. Ayo rame2 minta tanggung jwb gabener yg konsentrasinya ke formula E mulu sementara masalah banjir ngga ada solusinya. Sabar ya jd warga jkt, banjirnya udh terkenal sampai akhirat https://t.co/nqMRT8OAM1"
+867,,"Jakarta banjirnya parah bgt, ngga ada perbaikan sejak banjir awal thn malah makin merata &amp; kena tempat vital spt ini. Gabenernya malah sibuk urus Formula E mulu #BanjirJakarta2020 https://t.co/tWgX9C06OO"
+868,,Menjalani hidup yang mengalir aja seperti air ... Ya kalo lagi banjir gedebag gedebug kalo lagi tenang ya mending bubug (tidur)
+869,,"Kemang banjir
+jagakarsa enggak
+🏃🏃🏃💨💨💨 https://t.co/GEw8JbOtkf"
+870,,"Saya rasa pak #AniesBaswedan belum pernah ngrasain capeknya bersih2 pasca #banjir. Setelah bersih2 rumah lanjut gotong royong bersih2 jalanan.
+Listrik padam air mati, makanan abis. Blm lagi banjir susulan. Capek lho pak."
+871,,"Pak @aniesbaswedan dipulomas, tahun ini sudah 3x airnya masuk kedalam rumah. Mohon dibenahi dg serius masalah banjir ini Pak. Sangat memprihatinkan.."
+872,,"Pak @aniesbaswedan @DKIJakarta dipulomas, tahun ini sudah 3x airnya masuk kedalam rumah. Mohon dibenahi dg serius masalah banjir ini Pak. Sangat memprihatinkan.. #banjir #BanjirJakarta #BanjirJakarta2020"
+873,,Td dini hari banjir lagi. Ini baru surut. Total 6x banjir. Alhamdulillah
+874,,"Sebulan udah berapa kali telat gegara gangguan commuter lah, banjir lah. Hmmm.......lama lama gw beli motor aja lah ini 🤦"
+875,,Emang ujan deres ya semalam? Kok berita banjir di mana-mana. Ku nggak kerasa kalo ujan saking nglintekke -_-
+876,,"wuaduh Debit air bendung Katulampa tinggi, wahai warga Jakarta waspada banjir lagi kiriman dari Bogor *toa mana toa"
+877,,"Manna PKS ! Pemerintah Pastikan Banjir Bandang di Penajam Paser Utara Bukan Lokasi Ibu Kota Baru. Lokasi banjir jauh DARI Lokasi Ibukota.
+https://t.co/WNDaaF6NKQ
+@bin_martakusuma @chirp__john @SitompulYunus @gundala222 @budiarto2303 @kenhans03 @Salim_Semm @yohanes_setiono"
+878,,"Bandung Selatan akan Makin Sengsara, banjir etc. https://t.co/Fhem3Rs2Qs"
+879,,"HARI2 banjir ber Jilid2 ! 
+Banjir di Rawajati KALIBATA,
+Capai 1 Meter, Warga Masih Bertahan di Rumah
+
+https://t.co/FV9YJlTdyv
+@PJayakarsa @valencia_amara @Bubut871 @ichigotalks @MyBagaspati @LukmanHarijanto @gundala222"
+880,,"Banjir di Kebon Pala, Jakarta Timur. Hingga sore hari ini, banjir masih menggenangi permukiman warga, pukul 16.03 WIB, banjir setinggi 150 cm.
+https://t.co/zpQzMjOdqF
+@marsonom97 @yogo_prst @77bayoe @Berty69968038 @LukmanHarijanto @Shumartweet1 @durangonian"
+881,,"Banjir di Jalan DI Panjaitan, Jakarta Timur tidak bisa dilintasi semua ranmor pukul 03.56 WIB, tinggi air mencapai 60-100 cm, Tebet, Cawang Terendam Banjir.
+https://t.co/nKt7EBgkmY
+@BHD_8 @Oetaryo7 @cello_bams @valencia_amara @LukmanHarijanto @MyBagaspati
+@wrahardian2"
+882,,"Banjir di Jalan DI Panjaitan, Jakarta Timur tidak bisa dilintasi semua ranmor pukul 03.56 WIB.
+Tinggi air di Jalan DI Panjaitan mencapai 60-100 cm, Tebet, Cawang Terendam Banjir.
+https://t.co/nKt7EBgkmY
+@PJayakarsa @LisdiyantoR @Bams_1eng @ichigotalks @77bayoe @yogo_prst"
+883,,"Menurut Ketua Fraksi PKS DPRD DKI Jakarta M Arifin, Gabener Anies terbukti lebih baik ketimbang Ahok dalam menangani banjir di wilayah ibu kota.
+https://t.co/cG8TGaZW3n
+@Bnie18 @gundala222 @PJayakarsa @Berty69968038 @ichigotalks @Barna_byo @bahdirdja"
+884,,"Banjir, Bahagia Warganya !!
+Anak-anak Rawajati Berenang di Ciliwung yang Meluap, Lurah Beri Imbauan.
+https://t.co/L0rxTpZaSr
+@LisdiyantoR @MyBagaspati @novapermana8 @angelmaximilan @marsonom97 @Bubut871 @77bayoe @LukmanHarijanto"
+885,,"Kamis, 20 Feb 2020 15:41 WIB, BPBD DKI Jakarta ada 28 RW di Jakarta banjir. Lokasi paling tinggi terdapat di Cawang, dengan ketinggian 80 cm, tersebar di 16 kelurahan dan 10 kecamatan.
+https://t.co/hPrRKI4r9y
+@Oetaryo7 @cello_bams @enny_endah @bahdirdja @hemaviton99 @novapermana8"
+886,,"Menurut Gerindra Taufik, kinerja Pemprov DKI di bawah Gabener Anies memang tidak lebih baik dari era Ahok. Terutama dalam hal penanganan banjir dan macet.
+
+https://t.co/S4ebbciiwg
+@marsonom97 @PJayakarsa @Aslipriok1973 @Bubut871 @valencia_amara @Oetaryo7"
+887,4,"PEKAES NGE HOAX ! Banjir melanda Desa Bukit Subur, Penajam Paser Utara, Kalimantan Timur. Mnrt Bappenas Suharso pastikan Desa Bukit Subur tidak dekat dengan lokasi ibu kota negara yang baru.
+https://t.co/1JUz7azgUq
+@PartaiPKS @sirajapadoha @Dumax @DjanChoek @FachryAditya14 @BHD_8"
+888,,"Manna PKS ! Pemerintah Pastikan Banjir Bandang di Penajam Paser Utara Bukan Lokasi Ibu Kota Baru.
+https://t.co/WNDaaF6NKQ
+@positive_values @DjanChoek @jonahmunda @FachryAditya14 @gundala_030 @Boemi_Pertiwi12 @hputrantoadi @rich146754 @YohanesPatty2"
+889,,"Bandung Selatan akan Makin Sengsara, banjir etc. https://t.co/1sbeAU1RIM"
+890,,"Manna PKS ! Pemerintah Pastikan Banjir Bandang di Penajam Paser Utara Bukan Lokasi Ibu Kota Baru.
+https://t.co/WNDaaF6NKQ
+@dayakbanyadu @Dumax https://t.co/e2InXomAYJ"
+891,,Sedahsyat itu hujan pagi ini sampe dimana2 udah pada banjir
+892,,"Duh, banjir lagi ya Jakarta."
+893,,"#Banjir ujan baru bentar, mana pencegahan @JAKARTAGOVERNOR #DKIJakarta https://t.co/ZAZDg0uHEO"
+894,,@goneees @nastiti_mgranti @jstlitlegirl @petabencana njir ngakak bgt perihal banjir doang😭😭😭😭😭😭😭😭😭
+895,,Banjir. Sakit. Amburadul. Mager. Lengkap sudah hari ini.
+896,4,"@petabencana Ih ni bot bawel amat dah
+Heran
+#banjir"
+897,,@kum4n__ @memefess Mslh yg banjir dia bilang bercandaan atau apa gitu banyak yg ke triggered lupa si pastinya apa
+898,,"MANNA TOAAAA ! Banjir merendam wilayah RW 04, Kelurahan Cipinang Melayu, Jakarta Timur, Minggu (16/2/2020) sore, di lokasi, banjir setinggi sekitar 50 sentimeter menggenang rumah-rumah warga RW 04.
+https://t.co/FetbNN0HdW
+@novapermana8 @ichigotalks @Oetaryo7 @bbn14y @BHD_8"
+899,,@IwanWan94149215 @rondiyan @reza_barwiasari @CH_chotimah masalah banjir
+900,,"@Prambors Live Report !!!
+Kaga kena banjir sih, tp jalanan jd macet menuju jakarta.. 
+Enakan mampir makan ketupat padang dulu yu.. 😚😍☺ https://t.co/K89xxALrlo"
+901,,"Evakuasi Ibu &amp; bayinya.
+#banjir
+#kavling_rambutan
+#25022020 @ Kav.Rambutan Ciracas Jaktim https://t.co/bTdV3V735y"
+902,,"Whatever reason and wherever you go, please noted becomes as part of your journey
+Yang artinya: Bukan berarti akuh meninggalkan begitu saja Jakarta yang lagi banjir tapi akuh akan tetap bantu doa dari atas awan 🙌🙏🏻… https://t.co/uSxYDttp0p"
+903,,Pengungsi banjir kemang utara IX https://t.co/bJq6oJ6Py1
+904,4,"Menyebrangi banjir dengan ketinggian hingga se-kepala, kepala kontol. 
+#losgarewel #otwgudiken https://t.co/kS5eN8Mh3u"
+905,,#Banjir2020 Buka WA #banjir https://t.co/l4b1HZcJ6T
+906,,"maaf kalo terpaksa saya upload lagi, hanya sekedar ngasih ide aja.
+
+#banggaber #banjir #jakarta https://t.co/4lUmk2zy4F"
+907,,@MrsRachelIn @GunRomli @aniesbaswedan alhamdulillah yg banjir cuma jakarta ya non
+908,4,@MrsRachelIn @GunRomli @aniesbaswedan banjir bukan cuma jakarta tolol goblok alias togog dengerin siaran kompas  cebong2 pada subur kenapa gubernur laen luh gak hujat
+909,,@joshialong @MrsRachelIn @GunRomli @aniesbaswedan terimakasih semoga anda yg terhormat tidak kena banjir sep saya yg lemah
+910,,@GunRomli @aniesbaswedan kalo luh ga tau nih banjir bukan cuma jakarta togog https://t.co/Cc61w0RApJ
+911,4,Yang sering buang sampah sembarangan dilarang ngeluh kalo banjir. GARA GARA LO KITA SEMUA JADI SUSAH. https://t.co/cqA7ROqeXF
+912,,"Baru juga viral tuh video yg bilang pak gub baik karna banjir cuma dtangnya pas hari libur,eh skrng hari kerja di kasih banjir,makanya ga boleh sombong pak di denger malaikat kan tuh akhirnya"
+913,4,Udah was was takut banjir. Udah ngepack in barang2 diamanin. Tidur jam 6. Bangun jam 11. Sampe lupa punya laki harus kerja dia bablas aja tidur 😴😴😴
+914,,Yang rumahnya kena banjir awas hamil 🙊
+915,,Kalau terus menerus begini jangan nyalahin orang lain dong tp harus mulai dari sendiri menjaga lingkungan seenggaknya ga pd buang sampah sembarang . Its simple #Banjir
+916,,"@nauval_12 @ridlwandjogja Literasi kamu payah mas, jelas2 nama dan foto saya perempuan.
+
+Saya ngalamin banjir Jakarta sejak 92 mas, iya saya tahu dulu Jakarta sempet dirapihin, dan beberapa tempat spt di kali pesanggrahan ga banjir lagi. Karena dulu diurus.
+
+Ga usah dibelain, semua tahu skr itu mundur."
+917,,@msaid_didu Susah ya nyari ngelesan kalo udah banjir besar 4 kali dalam 2 bulan?
+918,,"@nauval_12 @ridlwandjogja Masalahnya banjirnya juga ngga berimbang mas. Kepikir ga lelahnya orang yang ngepel lumpur 4 kali dalam 2 bulan terakhir, padahal sudah bertahun2 ga pernah banjir. Di Jakarta, APBD terbesar. Pernah berasa diurus. Ya wajar marah luar biasa sekarang. 
+Ohya, mereka orang biasa juga"
+919,,"Yg nyebarin mungkin menolak lupa, pak. Atau mo ngasitau sebaran banjir taun 2013.
+
+Atau emang niat ngehoax https://t.co/H14yBDZPJH"
+920,,"Vertical housing, yg dulu dicemooh karena ga napak, keknya bakal jd solusi buat rangorang yg uda bosen beberes rumah pas banjir"
+921,,@detikcom Perasaan sdh bebas banjir.....sptnya tdk ada antisipasi
+922,3,Jalanan ke kantor banjir nggak ya 😭
+923,,@lewatmana mhn info arah permata hijau dari joglo apakah ada kendala banjir
+924,,Jakarta ujan dikit banjir lemah
+925,,@denbaguuss Doain jgn banjir lagi lah ye....lelah cuk
+926,,"Bangun tidur check hp rame bgt ngomongin banjir, gue si selow aja karena kosan w gak ada tanda banjir, eh taunya pas otw kantor pesanggarahan banjir dah dalem bgt 😢"
+927,5,"Yaaaa tempatnya gue si aman cuma aksesnya yang susah, dimana mana banjir😥"
+928,,@petabencana #banjir
+929,,Semoga banjir di kota ini cepet surut
+930,,"Mat mat, dibayar berapa ya lo ini ampe banjir aja harus disyukurin dan bela2in anies ampe mati2an gt. Udh buta bgt sm politik mah gini bgt ya. Gw sbg yg punya mantu betawi malu bgt liat statement kek gini. 🤬 https://t.co/UA8YVtOQKP"
+931,,"Tidak hanya Jakarta, Tangerang juga #banjir"
+932,,"Semoga #banjir menjadi pelajaran penting bagi semua yg suka buang sampah dari dlm mobil ke jalan, dari rumah ke kali, dari motor ke jalanan, stay strong semua.. Semoga juga Allah memberikan jalan terbaik agar manusianya dapat intropeksi diri 👍😇"
+933,,"Baru aja deh kmrinan liat di tipi katanya Alhamdulilah banjir di hari libur aja, etapi skrg hari selasa loh?! Eiaa brrti kalendernya tuh yg harus disalahkan karena tuh kalender belum solehh,,"
+934,4,"Hikmah dr banjir.
+
+Ya lo ga kena banjir bang. Yang kena banjir berkali2 warga kecil, kasian was was ga nyenyak tidurnya. Tiap ujan udh begadang angkat2in kasur, barang elektronik rusak. Lo mau ganti?😒 https://t.co/JIRwoQ0DES"
+935,,Banjir merata sampai Cikunir https://t.co/zyDTRRacaR
+936,,Banjir merata sampai ke Bekasi https://t.co/M5voj9HDif
+937,,Banjir merata sampai ke perumahan di Bekasi https://t.co/5jsSMqg0rb
+938,,"Menghadapi kondisi banjir seperti ini, sebaiknya bersabar sambil berzikir https://t.co/Z4m2o8TSz3"
+939,,@andhikaNay Tendean mampang banjir bosss..
+940,2,"Bangsyattt ngakak dnk w 🤣
+Banjir bisa milih di weekend https://t.co/hDoie48xzc"
+941,4,"Sesuai sunatullah, semoga A̶n̶i̶e̶s̶ ̶B̶a̶s̶w̶e̶d̶a̶n̶ air banjir segera dimasukkan ke dalam tanah. Amin ya Allah. 🤲
+
+Ketik netnot untuk ikutan amin."
+942,,Jam segini udah banyak titik jalanan yang gak bisa dilewatin karena banjir. Selamat berakhir pekan lebih awal. 🙏🏼 https://t.co/f3Fi8UFYJg
+943,4,Dibalik kata BANJIR tersirat kata ANJIR.... atau kalo ga singkatan BAngs*t NJIR.... #BanjirJakarta2020
+944,4,"@elshinta_radio HUJAN dari LANGIT, pejabat cuek saja tdk PINTER kelola BANJIR, HUKUM KARMA buruk"
+945,4,"@elshinta_radio NIKMATI banjir, BERSYUKUR"
+946,4,Banjir kok hampir tiap minggu. Sebangsat-bangsatnya Gubernur lah ini emang.
+947,5,"Gak sempet videoin saking paniknya kejebak di tengah banjir cuma bisa doa doang biar mesin gak mati di tengah..... 
+
+Motor lewat banyak yang mati mesin. Ada sedan tahun 2000an mati di tengah jalan, kasian liatnya...."
+948,4,"""dARi duLU jAKaRta jUgA bAnJiR kALi""."
+949,4,Ngentot emang nih orang kerjaannya cuma bisa nge-like postingan Persija doang. Disuruh nanggulangin banjir juga clueless. https://t.co/ZtBXxLGrTb
+950,,"@MelizaFera Wahh iya mba makasih infonya, barusan diinfoin banjir"
+951,,"Info dong ,Jl Boulevard Barat Raya Kelapa Gading #banjir gak ya?"
+952,2,"@Daffafrmnsyhh Kemaren sombong si lu gua bilang banjir apa engga, jawabnya wess engga dong 🤣"
+953,,"@vicc3nt22 Bisa sih masuk Dr H.Ridi keluar Gg.Halimah, cuma kalo ke arah Kebayoran kayaknya seskoal jg banjir..Kali Padang juga udh gak bisa lewat katanya"
+954,,"Jalan Swadarma Raya, Ulujami, JakSel banjiiirrr gaeess..kendaraan gak bisa melintas...  #banjir https://t.co/ajX2c00NdK"
+955,,"Banjiiirrrrr di Pondok Baru, Pesanggrahan JakSel #banjir https://t.co/D37oyiPGX5"
+956,4,"Rumah mertua di Pondok Baru, Pesanggrahan JakSel udh pake perahu karet aja depan rumah..kebayang di Swadarma BNI banjirnya jg tinggi ini sih, kalinya masih 1 jalur..🤦🏻‍♀️ #banjir #BanjirJakarta https://t.co/U7OWjzL3DY"
+957,,"PMI Karawang bantu evakuasi warga terdampak banjir ke tempat yg lebih aman dan pengungsian.
+Cc @Pak_JK @ridwankamil @Kiyai_MarufAmin @jokowi @DPR_RI @kemenkopmk @BNPB_Indonesia @KemensosRI @ifrc @Zurich @djfludznash @zfoundation @floodalliance @RedCrossAU @BritishRedCross https://t.co/siDc6YzgRZ"
+958,,"Banjir di Kab Karawang menyebabkan 386 KK/1.166 jiwa terdampak, 318 rumah terendam dengan Tinggi Muka Air (TMA) 5 - 180 cm. Info @BNPB_Indonesia
+PMI Kab. Karawang bersama BPBD, Tagana, TNI/Polri dan lainnya bantu evakuasi warga terdampak banjir.
+Cc @Pak_JK
+@jokowi @ridwankamil https://t.co/jPW4dZHtnQ"
+959,,"Sebanyak 14 desa di 5 kec di Karawang, Jawa Barat, terendam banjir akibat hujan deras yang mengguyur kota ini sejak kemarin. ""Ketinggian 30 cm hingga satu meter,"" kata BPBD Karawang, Minggu (23/2/2020).
+PMI Kab. Karawang, BPBD, Tagana, TNI/Polri bantu warga terdampak banjir. https://t.co/oOOoEZN9ES"
+960,,"Akibat cuaca ekstrem di wilayah kab lombok timur sejak beberapa hari terakhir mengakibatkan terjadinya banjir bandang d dusun melempo desa obel-obel kec sambelia pada pukul 16.00 wita.
+
+PMI Lombok Timur bersama BPBD dan lainnya membantu warga terdampak. Cc  @sudirmansaid @DPR_RI https://t.co/eBj2btBWGL"
+961,,"Sebanyak 59 (KK) / 250 jiwa terpaksa mengungsi akibat banjir bandang yang melanda Dusun Melempo, Desa Obel-Obel, Keca
+ Sambelia, Lombok Timur, NTB pada Minggu (23/2/2020) PMI Lombok Timur, Bersama Basarnas, BPBD, TNI/Polri dan lainnya bantu warga terdampak. Cc @sudirmansaid https://t.co/goBzrwXZYM"
+962,,"Proses evakuasi warga terdampak banjir terus dilakukan oleh tim rescue satgana PMI Kota Jakarta Timur di wilayah Kel Rawa Terate, Kec. Cakung Timur, Jakarta Timur, Minggu, (23/2) 
+Cc @aniesbaswedan @Pak_JK @sudirmansaid @husainabdullah1 @ifrc @IFRCAsiaPacific @jokowi @DPR_RI https://t.co/zhLzGTZEEf"
+963,,"PMI Karawang bersama BPBD, Tagana, TNI/Polri dan lainnya mendirikan dapur umum nagi warga terdampak banjir di tempat pengungsian. 
+Cc @Pak_JK
+@ridwankamil @jokowi @Kiyai_MarufAmin @DPR_RI @KemensosRI @juliaribatubara @BNPB_Indonesia @ifrc @RedCrossAU @Zurich @djfludznash @aw3126 https://t.co/pmQqOHGhcs"
+964,,"Dilanda hujan deras, PMI Manokwari, BPBD, TNI/Polri bantu warga terdampak banjir
+
+Banjir di Kab. Monokwari, Prov. Papua Barat.
+± 500 KK/1.000 Jiwa terdampak
+± 100 unit rumah terendam
+ info PusdalopsBNPB
+Cc @Pak_JK @sudirmansaid @jokowi @Kiyai_MarufAmin  @BNPB_Indonesia @ifrc https://t.co/T6nBboeIlY"
+965,,Banjir merata sampai Tol Cikampek https://t.co/lJM6VWWbc4
+966,,Banjir merata sampai Bekasi https://t.co/4MlT2Dsb9Q
+967,,Banjir merata sampai Bekasi https://t.co/1R5S3IzqwF
+968,,Ulujami juga #banjir ... Semoga cepat surut ya 🙏🙏 https://t.co/GgtInoxviD
+969,4,Berenti dong mau kerja nihh... paling males kalo berangkat kerja ujan terus banjir depan kantor! Huhft
+970,,"#banjir di komp.Sangrila Indah2,Pet.Selatan,Pesanggrahan,Jaksel @RadioElshinta @DinasSDAJakarta @petabencana @DKIJakarta @detikcom"
+971,3,Setiap malem mau tidur ga tenang.... Takut BANJIR  ...
+972,,@SalmaBrecht @GunRomli @aniesbaswedan @dprddkijakarta kalo tidak bisa negur dprd nya mundur kan cuma dki yg banjir di seluruh Indonesia ga banjir
+973,,"@yosaphatlavi Kaga kode oiii 😅
+Banjir lagi gaa yos?"
+974,5,@akunbarudita Demi apaaa si dit banjir lagi?
+975,2,"waw hujan.
+
+sebenernya senggang banget hari2 w belakangan ini tapi yah... kalo jalanan macet dmn2 karena banjir kan yah gimana yah... 🤪"
+976,,@KompasTV Banjir teguran dari TUHAN utk intropeksi
+977,,"@arisrahmadan @TMCPoldaMetro Kalou saya alhamdulillah 26 tahun tinggal di ulujami pesanggrahan jaksel gapernah banjir mas, ga nyampe rumah"
+978,,"Sebagian berita banjir Jakarta 2 bulan ke belakang:
+
+2 Jan: https://t.co/zxuL30bc9j
+
+18 Jan: https://t.co/zd7kJZufSt
+
+24 Jan: https://t.co/7hbLXPuiII
+
+2 Feb: https://t.co/bPHVIBYiwG
+
+8 Feb: https://t.co/oJvoThqYpC
+
+20 Feb: https://t.co/GPmGUY1sBR
+
+23 Feb: https://t.co/IJcTKImaDN"
+979,,"Update (23/2/20) pkl 05.30 WIB Pencarian laka sungai Siswa SMP N 1 Turi giat susur sungai sempor akibat banjir
+Meninggal Dunia 10 orang,
+Luka-luka 23 orang, 216 orang selamat. Operasi Pencarian SAR Gabungan (Basarnas, PMI, BPBD, TNI/Polri dan unsur lainnya) selesai https://t.co/R6iDJxaPvk"
+980,,"Update pkl 11.45 WIB Pencarian Siswa SMP N 1 Turi giat susur sungai sempor akibat banjir
+Meninggal Dunia tercatat 8 orang,
+Luka-luka 23 orang,
+Belum terkonfirmasi 2 orang, 216 siswa selamat
+Operasi Pencarian dilakukan oleh SAR Gabungan (Basarnas, PMI, BPBD, TNI/Polri dan lainnya) https://t.co/H72WFjdyiB"
+981,,Sampe keba lg banjir mah. Fix pindah rumah lg. Alhamdulilah tp engga. Wkwk.
+982,2,"Kalok banjir di jakarta diibaratkan ngegym, ada peningkatan durasi..brarti ada progres ke arah lebih.........BASAH!😁
+Dari setaun skali, limatahunan, fakum, setaun sekali, setahun 2x, 2 bulan skali, sebulan 3x, seminggu 2x..
+Sebulan lagi jadi sih ini otot² 💪🏼💪🏼💪🏼😆"
+983,,@hendriipsb Macet pasti karena banjir
+984,,Utk banjir didaerahku cilincing (kesatriaan) dah anti banjir.
+985,2,"Ini bukan banjir, hanya air yang menggenang saja. Mereka lagi ngantri ubtuk bermuara kok. Tenang 😝 https://t.co/63CfGOycVJ"
+986,,"Kegaduhan kontroversial nampaknya sengaja diciptakan silih berganti. Baru saja agak redah munculnya isu Agama Musuh Pancasila yg dilontarkan Kepala BPIP,  skrg dilontarkan isu baru Ahok paling berhasil tangani banjir Jakarta dgn responden 34 provinsi. Sasarannya apa ya? https://t.co/jdWdLvwAHR"
+987,,"Pasca #Banjir dan #longsor di Perumahan Pondok Tirta Mandala, Kel Sukamaju, Kec Cilodong, Minggu (16/02/2020) Satgana PMI Kota Depok bantu warga membersihkan sisa material lumpur dan sampah. Cc  @IdrisAShomad @sudirmansaid @Pak_JK @ridwankamil @jokowi @BNPB_Indonesia @DPR_RI https://t.co/XKEhAOejdj"
+988,4,"Sistem? Mana hasil assessmen banjir jan 2020 berapa ketinggian air di berbagai wilayah, dari data tsb bisa dilihat kebutuhan pompa , dan bagaimana drainase kota yang sudah usang ? Apakabar APBD DKI?  #mitigasistruktural #BanjirJakarta sistem toa ? https://t.co/A6D7cFE9tK"
+989,5,Kamu datang tanpa permisi~ #banjir https://t.co/xR4GSJYkJ4
+990,4,"Gk banjir sih,, tapi mati lampu dan mati aer... Ya udh lah TIDUR LAGIII"
+991,5,"Jl. Garnisun banjir gaes, kayak kolam ikan. kali semanggi juga meluap, begini lah dampaknya 😪 @DinasSDAJakarta @DKIJakarta https://t.co/aq421P31xP"
+992,2,"Banjir, Alhamdulillah surut sangat cepat..."
+993,2,"Keseruan anak2 berenang di genangan air yg sedang antrian masuk tanah
+#BanjirDKIJakarta #banjir #banjirlagi #banjirfebruari #4niesTenggelamkanDKI #Kick4nies #WajahBaruJakarta https://t.co/kKsIFZ1F06"
+994,,"Hujan lebat yang terjadi hingaa pagi ini mengakibatkan banjir di Perumahan Pondok Maharta, Pondok Kacang, Pondok Aren, Tangerang Selatan
+.
+.
+Video by :@febbysins
+RG @tangsel_life
+.
+.
+#tangsel #banjir #maharta… https://t.co/GoWd1Tfug9"
+995,,"Hujan lebat yang terjadi hingaa pagi ini mengakibatkan banjir di Perumahan Pondok Maharta, Pondok Kacang, Pondok Aren, Tangerang Selatan
+.
+.
+Send video by :@febbysins
+.
+.
+#kabarbintaro  #jakartaselatan #jaksel… https://t.co/HHiPyahB4X"
+996,1,"Terima kasih untuk Ayah tanpa lelah menggendong si anak yg tetap ingin sekolah. Tetap sepmangat  ke sekolah walaupun terhalang Banjir di Komplek Pondok Maharta! So sweet 💖
+.
+.
+.
+from… https://t.co/33cugEL7Dz"
+997,,Semua banjir ini salahnya Jan Pieterzoen Coen. https://t.co/JoGpfQNzRW
+998,,"Banjir di depan Graha Taman Bintaro Sektor 9.. Waspada Kabiners..
+.
+.
+.
+.
+#kabarbintaro #jakartaselatan #jaksel #bintarojaya #tangerangselatan #tangsel #tangerang #bintaro #pamulang #ciputat #infobanjir… https://t.co/nDgI5nYA1w"
+999,,"Tahukah kamu motor listrik yang lewati banjir ternyata gak masalah loh…
+
+Rendaman banjir ternyata tidak mengganggu kinerja dari motor listrik. Sistem penggerak motor listrik terdiri dari baterai, dinamo, dan… https://t.co/LARM3qkPqn"
+1000,,"Setelah skuter kamu melewati genangan air atau terendam banjir, segera periksa beberapa komponen untuk memastikan air tidak masuk ke komponen tersebut ya sobat Toda…
+
+Ada 5 komponen yang wajib dicek setelah kena… https://t.co/CwSQwILOUy"
